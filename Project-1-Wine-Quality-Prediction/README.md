@@ -13,3 +13,6 @@ The main goal is to build a robust machine learning model that can accurately pr
 * Keras
 
 # Dataset
+
+In this project I am using the wine quality dataset available on Kaggle for free.
+https://www.kaggle.com/datasets/yasserh/wine-quality-dataset?resource=download&select=WineQT.csv
