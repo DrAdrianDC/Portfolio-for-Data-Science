@@ -7,7 +7,8 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
 #### Project 1: Wine Quality Prediction
 
     Description: Predicting the quality of wines using physicochemical variables.
-    Tools & Techniques: Python, pandas, scikit-learn, XGBoost, Logistic regression, Random Forest, Neural networks, data visualization, streamlit web app.
+    Tools & Techniques: Python, pandas, scikit-learn, XGBoost, Logistic regression, 
+    Random Forest, Neural networks, data visualization, Streamlit web app.
     Links: GitHub Repository, Blog Post
 
 #### Project 2: Anomaly Detection using Machine Learning
