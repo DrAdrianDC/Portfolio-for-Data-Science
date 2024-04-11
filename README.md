@@ -11,14 +11,14 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
     Random Forest, Neural networks, data visualization, Streamlit web app.
     Links: GitHub Repository, Blog Post
 
-#### Project 2: Anomaly Detection using Machine Learning
+#### Project 2: Anomaly Detection 
 
    
 
 #### Project 3: Stock Market Prediction
 
 #### About Me
-I have a PhD in Physics ( Dr. rer. nat. certificate) from the University of Bremen (Germany) and a Bachelor in Radiochemistry (5 years program) from the Higher Institute of Technologies and Applied Sciences (InSTEC), Havana, Cuba. My scientific career has taken me to 4 countries (Canada, The Netherlands, Germany, USA) and 4 academic institutions, with co-authored peer-reviewed publications on quantum chemistry, and simulations on computational chemistry.
+I have a PhD in Physics (Dr. rer. nat. certificate) from the University of Bremen (Germany) and a Bachelor in Radiochemistry (5 years program) from the Higher Institute of Technologies and Applied Sciences (InSTEC), Havana, Cuba. My scientific career has taken me to 4 countries (Canada, The Netherlands, Germany, USA) and 4 academic institutions, with co-authored peer-reviewed publications on quantum chemistry, and simulations on computational chemistry.
 With a specialization in Machine Learning, I am enthusiastic about solving real world problems. 
 Feel free to reach out to me via email or connect with me on LinkedIn.
 
