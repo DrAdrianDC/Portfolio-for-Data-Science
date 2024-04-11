@@ -9,14 +9,20 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
     Description: Predicting the quality of wines using physicochemical variables.
     Tools & Techniques: Python, pandas, scikit-learn, XGBoost, Logistic regression, 
     Random Forest, Neural networks, data visualization, Streamlit web app.
-    Links: GitHub Repository, Blog Post
+    Links: GitHub Repository
 
-#### Project 2: Anomaly Detection 
+#### Project 2: Anomaly Detection using Machine Learning
 
-   
+    Description: Anomaly detection in West Texas Intermediate (WTI) Crude Oil Prices
+    Tools & Techniques: Python, pandas, data visualization, LTSM autoencoders
+    Links: GitHub Repository  
 
 #### Project 3: Stock Market Prediction
+    Description: 
+    Tools & Techniques:
+    Links:
 
+    
 #### About Me
 I have a PhD in Physics (Dr. rer. nat. certificate) from the University of Bremen (Germany) and a Bachelor in Radiochemistry (5 years program) from the Higher Institute of Technologies and Applied Sciences (InSTEC), Havana, Cuba. My scientific career has taken me to 4 countries (Canada, The Netherlands, Germany, USA) and 4 academic institutions, with co-authored peer-reviewed publications on quantum chemistry, and simulations on computational chemistry.
 With a specialization in Machine Learning, I am enthusiastic about solving real world problems. 
