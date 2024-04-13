@@ -18,4 +18,4 @@ The main goal is to build
 
 # Dataset
 
-In this project I am using the yfinance library,
+In this project I am using the open source yfinance library to get financial data from Yahoo Finance.
