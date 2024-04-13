@@ -4,6 +4,17 @@ The ability to detect anomalies in crude oil prices has practical application in
 
 
 
+
+![Figure](https://github.com/DrAdrianDC/Portfolio-for-Data-Science/assets/157868503/59dc7998-171f-44e3-985b-f29f3db0103b)
+
+
+
+
+
+
+
+
+
 # Requirements
 
 * Python 3.8.3
