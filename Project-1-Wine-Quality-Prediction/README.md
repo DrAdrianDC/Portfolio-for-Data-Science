@@ -4,6 +4,14 @@ The main goal is to build a robust machine learning model that can accurately pr
 
 In addition, an Streamlit web app was created.
 
+
+
+
+![DSC01511](https://github.com/DrAdrianDC/Portfolio-for-Data-Science/assets/157868503/54f9c5bd-0d38-4bc1-bb98-a7a45924e3b2)
+
+
+
+
 # Requirements
 
 * Python 3.8.3
