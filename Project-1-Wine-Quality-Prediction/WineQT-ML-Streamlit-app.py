@@ -368,7 +368,7 @@ elif state == "wine_quality_prediction":
           model = joblib.load('RF_joblib.pkl')
 
     # Now you can use the model for predictions
-     else:
+      else:
          print('Failed to download the model')
 
 
