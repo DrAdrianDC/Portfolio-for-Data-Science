@@ -19,7 +19,7 @@ import joblib
 
 import urllib.request
 
-
+import requests
 
 
 # Variable de estado para controlar la página actual
@@ -347,8 +347,32 @@ elif state == "wine_quality_prediction":
     
        #Cargar el modelo entrenado
      # model = joblib.load("LogReg_joblib.pkl")
-      model = joblib.load('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/tree/main/Project-1-Wine-Quality-Prediction/RF_joblib.pkl')
-     
+     # model = joblib.load("RF_joblib.pkl")
+
+
+
+
+     # URL of the model on GitHub
+       model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-1-Wine-Quality-Prediction/RF_joblib.pkl'
+
+     # Download the model file
+       response = requests.get(model_url)
+
+     # Check if download was successful
+       if response.status_code == 200:
+    # Save the model file locally
+         with open('RF_joblib.pkl', 'wb') as f:
+         f.write(response.content)
+    
+    # Load the model
+         model = joblib.load('RF_joblib.pkl')
+
+    # Now you can use the model for predictions
+       else:
+            print('Failed to download the model')
+
+
+    
       st.empty()
       st.write("<br>", unsafe_allow_html=True)
       st.write("")
