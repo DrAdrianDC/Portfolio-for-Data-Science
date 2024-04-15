@@ -59,7 +59,7 @@ if state == "project_description":
     st.write("")
     st.markdown("---")
 
-    st.header("Project Description")
+    #st.header("Project Description")
     st.write("<br>", unsafe_allow_html=True)
     st.empty()
     st.write("<br>", unsafe_allow_html=True)
@@ -102,7 +102,7 @@ elif state == "exploratory_data_analysis":
       st.header("Exploratory Data Analysis")
       st.write('')
       st.markdown("---")
-      st.header("Exploratory Data Analysis")
+      #st.header("Exploratory Data Analysis")
       st.write("<br>", unsafe_allow_html=True)
       st.empty()
       
@@ -315,7 +315,7 @@ elif state == "wine_quality_prediction":
       st.markdown("---")
 
 
-      st.title("Wine Quality Prediction")
+      #st.title("Wine Quality Prediction")
 # Adding space      
       st.write('')
       st.markdown("---")
