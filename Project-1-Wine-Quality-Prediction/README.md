@@ -5,6 +5,8 @@ The main goal is to build a robust machine learning model that can accurately pr
 In addition, an Streamlit web app was created.
 https://wine-quality-ml-app.streamlit.app/
 
+![DSC01511](https://github.com/DrAdrianDC/Portfolio-for-Data-Science/assets/157868503/494fb084-796c-430b-9610-8c4d0da7632c)
+
 
 # Requirements
 
