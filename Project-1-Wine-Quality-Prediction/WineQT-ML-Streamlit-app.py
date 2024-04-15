@@ -347,9 +347,8 @@ elif state == "wine_quality_prediction":
     
        #Cargar el modelo entrenado
      # model = joblib.load("LogReg_joblib.pkl")
-     # model = joblib.load("RF_joblib.pkl")
-      model = joblib.load("https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/RF_joblib.pkl")
-
+      model = joblib.load("RF_joblib.pkl")
+     
       st.empty()
       st.write("<br>", unsafe_allow_html=True)
       st.write("")
