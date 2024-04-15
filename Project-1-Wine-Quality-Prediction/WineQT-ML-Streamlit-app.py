@@ -180,13 +180,7 @@ elif state == "exploratory_data_analysis":
       # Adding space
       st.write("<br>", unsafe_allow_html=True)
       st.empty()
-      
-      #st.markdown('#### How it looks the wine quality in the dataset ?')
-      #plt.figure(figsize=(5, 5))
-      #plt.figure(num=None, figsize=(10, 6))  # Set the figure size
-      #plot_quality = sb.countplot(df['quality'])
-      #plot_quality.set_xticklabels(plot_quality.get_xticklabels(), fontsize=10)
-      #plot_quality.set_yticklabels(plot_quality.get_yticklabels(), fontsize=10)
+
 
 
       st.markdown('#### How does the wine quality look in the dataset?')
@@ -194,7 +188,7 @@ elif state == "exploratory_data_analysis":
       plot_quality = sb.countplot(data=df, x='quality')
       plot_quality.set_xticklabels(plot_quality.get_xticklabels(), fontsize=10)
       plot_quality.set_yticklabels(plot_quality.get_yticklabels(), fontsize=10)
-      st.pyplot(plt)
+      
 
     
 
