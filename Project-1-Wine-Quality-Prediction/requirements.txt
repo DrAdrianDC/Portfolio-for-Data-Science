@@ -1,3 +1,6 @@
 matplotlib
 seaborn
 joblib
+pandas
+keras
+tensorflow
