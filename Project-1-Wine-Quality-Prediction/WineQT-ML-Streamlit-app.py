@@ -353,23 +353,23 @@ elif state == "wine_quality_prediction":
 
 
      # URL of the model on GitHub
-       model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-1-Wine-Quality-Prediction/RF_joblib.pkl'
+      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-1-Wine-Quality-Prediction/RF_joblib.pkl'
 
      # Download the model file
-       response = requests.get(model_url)
+      response = requests.get(model_url)
 
      # Check if download was successful
-       if response.status_code == 200:
+      if response.status_code == 200:
     # Save the model file locally
-         with open('RF_joblib.pkl', 'wb') as f:
-         f.write(response.content)
+          with open('RF_joblib.pkl', 'wb') as f:
+              f.write(response.content)
     
     # Load the model
-         model = joblib.load('RF_joblib.pkl')
+          model = joblib.load('RF_joblib.pkl')
 
     # Now you can use the model for predictions
-       else:
-            print('Failed to download the model')
+     else:
+         print('Failed to download the model')
 
 
     
