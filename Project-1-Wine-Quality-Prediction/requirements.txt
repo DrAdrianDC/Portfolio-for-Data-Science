@@ -2,6 +2,6 @@ matplotlib
 seaborn
 joblib
 pandas
-sklearn
+scikit-learn
 keras
 tensorflow
