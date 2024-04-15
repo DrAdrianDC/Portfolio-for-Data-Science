@@ -52,7 +52,8 @@ if state == "project_description":
     st.write('')
     st.markdown("---")
     # Add an image
-    st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
+    #st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
+    st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-1-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500)
 
 
     # Add space
