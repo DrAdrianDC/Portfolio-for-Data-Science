@@ -406,7 +406,7 @@ elif state == "wine_quality_prediction":
 
     # Make prediction
       prediction = model.predict(input_data)
-       return prediction
+         return prediction
 
      if st.button("Predict", key="predict_button"):
        prediction = predict_quality(fixed_acidity, volatile_acidity, citric_acidity, residual_sugar, chlorides,
