@@ -17,6 +17,7 @@ import seaborn as sb
 #import pickle
 import joblib
 
+import urllib.request
 
 
 
@@ -109,11 +110,14 @@ elif state == "exploratory_data_analysis":
       
       
       
-      
+      # Download the CSV file
+      url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-1-Wine-Quality-Prediction/WineQT.csv'
+      urllib.request.urlretrieve(url, 'WineQT.csv')
+
       
       # Load the data
-      #df = pd.read_csv('WineQT.csv')
-      df = pd.read_csv('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/WineQT.csv')
+      df = pd.read_csv('WineQT.csv')
+      #df = pd.read_csv('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/WineQT.csv')
     
       st.markdown('#### Summary of the dataset')
       # Capture the output of df.info()
