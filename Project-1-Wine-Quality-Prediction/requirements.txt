@@ -2,5 +2,6 @@ matplotlib
 seaborn
 joblib
 pandas
+sklearn
 keras
 tensorflow
