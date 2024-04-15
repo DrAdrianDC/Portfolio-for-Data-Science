@@ -189,16 +189,16 @@ elif state == "exploratory_data_analysis":
       plot_quality.set_yticklabels(plot_quality.get_yticklabels(), fontsize=10)
 
 # Add text labels to the bars
-      for p in plot_quality.patches:
-          x = p.get_x() + p.get_width() / 2
-          y = p.get_height()
-          plot_quality.annotate(format(p.get_height(), '.0f'),
-                          (x, y),
-                          ha='center',
-                          va='center',
-                          xytext=(0, 6),
-                          textcoords='offset points',
-                          fontsize=10)
+     # for p in plot_quality.patches:
+     #     x = p.get_x() + p.get_width() / 2
+     #     y = p.get_height()
+     #     plot_quality.annotate(format(p.get_height(), '.0f'),
+     #                     (x, y),
+     #                     ha='center',
+     #                     va='center',
+     #                     xytext=(0, 6),
+     #                     textcoords='offset points',
+     #                     fontsize=10)
 
       st.pyplot(plt)
 
@@ -293,13 +293,12 @@ elif state == "exploratory_data_analysis":
       
       # Plot quality classification 
       
-      df['quality'].value_counts()
-      
       plt.figure(num=None)
-      sb.countplot(data = df, x = 'quality', saturation=0.5)
+      sb.countplot(data=df, x='quality', saturation=0.5)
       plt.title("Types of Wine")
-      plt.xticks([-1,0,1,2], ['','bad wine','good wine',''])
+      plt.xticks(ticks=[0, 1], labels=['Bad Wine', 'Good Wine'])  # Set x-axis labels based on unique values in 'quality' column
       st.pyplot(plt)
+
       
       
     
