@@ -183,11 +183,12 @@ elif state == "exploratory_data_analysis":
       
       st.markdown('#### How it looks the wine quality in the dataset ?')
       #plt.figure(figsize=(5, 5))
-      plt.figure(num=None)
+      plt.figure(num=None, figsize=(10, 6))  # Set the figure size
       plot_quality = sb.countplot(df['quality'])
       plot_quality.set_xticklabels(plot_quality.get_xticklabels(), fontsize=10)
       plot_quality.set_yticklabels(plot_quality.get_yticklabels(), fontsize=10)
-      # Add text labels to the bars
+
+# Add text labels to the bars
       for p in plot_quality.patches:
         plot_quality.annotate(format(p.get_height(), '.0f'),
                           (p.get_x() + p.get_width() / 2., p.get_height()),
@@ -196,7 +197,9 @@ elif state == "exploratory_data_analysis":
                           xytext=(0, 6),
                           textcoords='offset points',
                           fontsize=10)
+
       st.pyplot(plt)
+
       
       # Adding space
       st.empty()
