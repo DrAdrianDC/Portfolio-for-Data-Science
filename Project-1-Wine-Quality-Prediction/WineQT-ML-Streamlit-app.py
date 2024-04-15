@@ -126,8 +126,12 @@ elif state == "exploratory_data_analysis":
       
       # Load the data
       #df = pd.read_csv('WineQT.csv')
-      df = pd.read_csv('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/WineQT.csv', delimiter=';')
+      #df = pd.read_csv('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/WineQT.csv', delimiter=';')
 
+      url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-1-Wine-Quality-Prediction/WineQT.csv'
+      df = pd.read_csv(url, delimiter=';', encoding='utf-8')
+
+     
       st.markdown('#### Summary of the dataset')
       # Capture the output of df.info()
       string_buffer = StringIO()
