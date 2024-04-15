@@ -393,35 +393,33 @@ elif state == "wine_quality_prediction":
     # Check if all input values are provided
           if None in [fixed_acidity, volatile_acidity, citric_acidity, residual_sugar, chlorides,
                 free_sulfur_dioxide, total_sulfur_dioxide, density, pH, sulphates, alcohol]:
-             return "Please provide all input values."
+              return "Please provide all input values."
 
     # Convert input values to float
-      input_data = np.array([[float(fixed_acidity), float(volatile_acidity), float(citric_acidity), float(residual_sugar),
+          input_data = np.array([[float(fixed_acidity), float(volatile_acidity), float(citric_acidity), float(residual_sugar),
                              float(chlorides), float(free_sulfur_dioxide), float(total_sulfur_dioxide),
                              float(density), float(pH), float(sulphates), float(alcohol)]])
 
     # Check if model is loaded
-      if 'model' not in globals():
-         return "Model not loaded. Please load the model first."
+          if 'model' not in globals():
+              return "Model not loaded. Please load the model first."
 
     # Make prediction
-      prediction = model.predict(input_data)
-         return prediction
+          prediction = model.predict(input_data)
+          return prediction
 
-     if st.button("Predict", key="predict_button"):
-       prediction = predict_quality(fixed_acidity, volatile_acidity, citric_acidity, residual_sugar, chlorides,
+      if st.button("Predict", key="predict_button"):
+          prediction = predict_quality(fixed_acidity, volatile_acidity, citric_acidity, residual_sugar, chlorides,
                                  free_sulfur_dioxide, total_sulfur_dioxide, density, pH, sulphates, alcohol)
 
     # Display the prediction result
-     if isinstance(prediction, str):
-        st.write(prediction)
-     else:
-        if prediction[0] == 0:
-            st.write("Predicted wine quality: Bad")
-        elif prediction[0] == 1:
-            st.write("Predicted wine quality: Good")
-
-        
+          if isinstance(prediction, str):
+              st.write(prediction)
+          else:
+              if prediction[0] == 0:
+                  st.write("Predicted wine quality: Bad")
+              elif prediction[0] == 1:
+                  st.write("Predicted wine quality: Good")
 
          
       
