@@ -57,9 +57,6 @@ if state == "project_description":
 
     # Add space
     st.write("")
-    st.markdown("---")
-
-    #st.header("Project Description")
     st.write("<br>", unsafe_allow_html=True)
     st.empty()
     st.write("<br>", unsafe_allow_html=True)
@@ -315,10 +312,7 @@ elif state == "wine_quality_prediction":
       st.markdown("---")
 
 
-      #st.title("Wine Quality Prediction")
-# Adding space      
-      st.write('')
-      st.markdown("---")
+
       
       # Create columns to display buttons horizontally
       col1, col2, col3 = st.columns(3)
