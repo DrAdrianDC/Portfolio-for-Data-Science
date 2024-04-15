@@ -10,6 +10,7 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
     Tools & Techniques: Python, pandas, scikit-learn, tensorflow, XGBoost, Logistic regression, 
     Random Forest, Neural networks, data visualization, Streamlit web app.
     Links: GitHub Repository
+    Streamlit web app: https://wine-quality-ml-app.streamlit.app/
 
 #### Project 2: Anomaly Detection in WTI Crude Oil prices using LTSM autoencoders
 
