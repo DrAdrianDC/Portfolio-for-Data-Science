@@ -52,7 +52,7 @@ if state == "project_description":
     st.markdown("---")
     # Add an image
     #st.image('/Users/adriandominguezcastro/Desktop/DSC01511.jpg', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
-    #st.image('DSC01511.jpg', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
+    st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
 
 
     # Add space
@@ -113,8 +113,9 @@ elif state == "exploratory_data_analysis":
       
       
       # Load the data
-      df = pd.read_csv('WineQT.csv')
-      
+      #df = pd.read_csv('WineQT.csv')
+       df = pd.read_csv('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/WineQT.csv')
+    
       st.markdown('#### Summary of the dataset')
       # Capture the output of df.info()
       string_buffer = StringIO()
