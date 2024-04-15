@@ -190,8 +190,10 @@ elif state == "exploratory_data_analysis":
 
 # Add text labels to the bars
       for p in plot_quality.patches:
-        plot_quality.annotate(format(p.get_height(), '.0f'),
-                          (p.get_x() + p.get_width() / 2., p.get_height()),
+          x = p.get_x() + p.get_width() / 2
+          y = p.get_height()
+          plot_quality.annotate(format(p.get_height(), '.0f'),
+                          (x, y),
                           ha='center',
                           va='center',
                           xytext=(0, 6),
