@@ -294,9 +294,9 @@ elif state == "exploratory_data_analysis":
       # Plot quality classification 
       
       plt.figure(num=None)
-      sb.countplot(data=df, x='quality', saturation=0.5)
+      sb.countplot(data = df, x = 'quality', saturation=0.5)
       plt.title("Types of Wine")
-      plt.xticks(ticks=[0, 1], labels=['Bad Wine', 'Good Wine'])  # Set x-axis labels based on unique values in 'quality' column
+      plt.xticks([-1,0,1,2], ['','bad wine','good wine',''])
       st.pyplot(plt)
 
       
