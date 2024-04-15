@@ -51,7 +51,7 @@ if state == "project_description":
     st.write('')
     st.markdown("---")
     # Add an image
-    st.image('/Users/adriandominguezcastro/Desktop/DSC01511.jpg', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
+    st.image('DSC01511.jpg', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
 
 
     # Add space
