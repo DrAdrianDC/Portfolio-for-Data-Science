@@ -18,6 +18,9 @@ import seaborn as sb
 import joblib
 
 
+import requests
+from PIL import Image
+from io import BytesIO
 
 
 
@@ -52,7 +55,16 @@ if state == "project_description":
     st.markdown("---")
     # Add an image
     #st.image('/Users/adriandominguezcastro/Desktop/DSC01511.jpg', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
-    st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
+    #st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
+    url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/DSC01511.JPG'
+
+     try:
+        response = requests.get(url)
+        img = Image.open(BytesIO(response.content))
+        st.image(img, caption='Photo by the author during a trip to Porto, Portugal in November 2019', use_column_width=True)
+     except Exception as e:
+        st.write('Error loading image:', e)
+        st.write('Placeholder: 0')
 
 
     # Add space
