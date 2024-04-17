@@ -14,8 +14,6 @@ An autoencoder is a type of neural network designed to copy its input to its out
 An LSTM autoencoder combines both of these concepts. It uses LSTM layers to learn representations of temporal input sequences. The training process creates two LSTM models — an encoder to reduce sequences into vector representations and a decoder that tries to replicate vectors back to original sequences.
 
 
-![Figure](https://github.com/DrAdrianDC/Portfolio-for-Data-Science/assets/157868503/59dc7998-171f-44e3-985b-f29f3db0103b)
-
 
 
 
