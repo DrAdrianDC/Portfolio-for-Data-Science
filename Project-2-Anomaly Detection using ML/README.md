@@ -17,7 +17,6 @@ An LSTM autoencoder combines both of these concepts. It uses LSTM layers to lear
 
 
 
-![newplot-2](https://github.com/DrAdrianDC/Portfolio-for-Data-Science/assets/157868503/d15f6fd9-a415-4db5-9000-87d08c68196e)
 
 
 
