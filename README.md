@@ -7,7 +7,7 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
 #### Project 1: Wine Quality Prediction
 
     Description: Predicting the quality of wines using physicochemical variables.
-    Tools & Techniques: Python, pandas, scikit-learn, tensorflow, XGBoost, Logistic regression, 
+    Tools & Techniques: Python, pandas, scikit-learn, tensorflow, keras, XGBoost, Logistic regression, 
     Random Forest, Neural networks, data visualization, Streamlit web app.
     Links: GitHub Repository
     Streamlit web app: https://wine-quality-ml-app.streamlit.app/
@@ -15,7 +15,7 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
 #### Project 2: Anomaly Detection in WTI Crude Oil prices using LTSM autoencoders
 
     Description: Anomaly detection in West Texas Intermediate (WTI) Crude Oil Prices
-    Tools & Techniques: Python, pandas,tensorflow, data visualization, LTSM autoencoders, yfinance
+    Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, LTSM autoencoders
     Links: GitHub Repository  
 
 #### Project 3: Stock Market Prediction
