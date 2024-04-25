@@ -26,7 +26,7 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
 
 
 #### Project 4: Project on Data Cleaning
-    Description: This project focuses on the comprehensive process of cleaning and preparing raw data for analysis and modeling. 
+    Description: A comprehensive process of cleaning and preparing raw data for analysis and modeling. 
     Tools & Techniques: Python, pandas, numpy, scipy
     Links: GitHub Repository
 
