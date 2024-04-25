@@ -4,6 +4,12 @@
 Welcome to my Data Science portfolio! Here, you'll find a collection of projects I've worked on, showcasing my skills and experience in the field of Data Science and Machine Learning. Each project includes a brief description, the tools and techniques used, and links to the code and any related information.
 
 # Projects
+
+#### Project 0: Project on Data Cleaning
+    Description: A comprehensive process of cleaning and preparing raw data for analysis and modeling. 
+    Tools & Techniques: Python, pandas, numpy, scipy
+    Links: GitHub Repository
+
 #### Project 1: Wine Quality Prediction
 
     Description: Predicting the quality of wines using physicochemical variables.
@@ -25,10 +31,10 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
     Links: GitHub Repository
 
 
-#### Project 4: Project on Data Cleaning
-    Description: A comprehensive process of cleaning and preparing raw data for analysis and modeling. 
-    Tools & Techniques: Python, pandas, numpy, scipy
-    Links: GitHub Repository
+#### Project 4: 
+    Description:  
+    Tools & Techniques: 
+    Links: 
 
     
 #### About Me
