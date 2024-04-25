@@ -22,16 +22,13 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
 #### Project 3: Stock Market Prediction
     Description: 
     Tools & Techniques:
-    Links:
+    Links: GitHub Repository
 
 
 #### Project 4: Project on Data Cleaning
-    Description: This project focuses on the comprehensive process of cleaning and preparing raw data for analysis. 
-   It includes techniques for handling missing values, standardizing data formats, detecting and removing outliers, 
-   and ensuring data consistency. The project aims to showcase best practices in data cleaning to enhance the 
-   quality and reliability of datasets for further analysis and modeling.
+    Description: This project focuses on the comprehensive process of cleaning and preparing raw data for analysis and modeling. 
     Tools & Techniques: Python, pandas, numpy, scipy
-    Links:
+    Links: GitHub Repository
 
     
 #### About Me
