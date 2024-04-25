@@ -26,8 +26,11 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
 
 
 #### Project 4: Project on Data Cleaning
-    Description: This project focuses on the comprehensive process of cleaning and preparing raw data for analysis. Utilizing Python and popular libraries such as Pandas, NumPy, and SciPy, it includes techniques for handling missing values, standardizing data formats, detecting and removing outliers, and ensuring data consistency. The project aims to showcase best practices in data cleaning to enhance the quality and reliability of datasets for further analysis and modeling.
-    Tools & Techniques:
+    Description: This project focuses on the comprehensive process of cleaning and preparing raw data for analysis. 
+   It includes techniques for handling missing values, standardizing data formats, detecting and removing outliers, 
+   and ensuring data consistency. The project aims to showcase best practices in data cleaning to enhance the 
+   quality and reliability of datasets for further analysis and modeling.
+    Tools & Techniques: Python, pandas, numpy, scipy
     Links:
 
     
