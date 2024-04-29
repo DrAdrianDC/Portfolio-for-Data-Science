@@ -1,9 +1,22 @@
 # Project-0- Data Cleaning
 
-The main idea is a comprehesive process of cleaning and preparing raw data for analysis.
-By using Python and popular libraries such as Pandas, Numpy, and Scipy, it includes techniques for handling missing values, standardizing data formats, detecting and removing outliers, and ensuring data consistency. The project aims to showcase best practices in data cleaning to enhance the quality and reability of datsets for further analysis and modeling.
 
 #### Why data cleaning is relevant?
 * Incomplete data
 * The data may contain errors.
 * Inconsistent data
+
+The main idea is a comprehesive process of cleaning and preparing raw data for analysis.
+By using Python and popular libraries such as Pandas, Numpy, and Scipy, it includes techniques for handling missing values, standardizing data formats, detecting and removing outliers, and ensuring data consistency. The project aims to showcase best practices in data cleaning to enhance the quality and reability of datsets for further analysis and modeling.
+
+# Requirements
+
+* Python 3.8.3
+* Pandas 1.0.5
+* Numpy  1.23.4
+
+
+# Dataset
+
+In this project I am using the hotel booking demand dataset available on Kaggle for free.
+(https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download)
