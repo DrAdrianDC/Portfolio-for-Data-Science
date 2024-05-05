@@ -22,7 +22,7 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
 
     Description: Anomaly detection in West Texas Intermediate (WTI) Crude Oil Prices
     Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, 
-                        LTSM autoencoders, Deep Learning
+                        LSTM autoencoders, Deep Learning
     Links: GitHub Repository  
 
 #### Project 3: Stock Market Prediction
