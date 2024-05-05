@@ -39,7 +39,7 @@ Welcome to my Data Science portfolio! Here, you'll find a collection of projects
 
     
 #### About Me
-I obtained a PhD in Physics (Dr. rer. nat. certificate) from the University of Bremen, Germany and a Bachelor in Radiochemistry (5 years program) from the Higher Institute of Technologies and Applied Sciences (InSTEC), Havana, Cuba. My scientific career has taken me to 4 countries (Canada, The Netherlands, Germany, USA) and 4 academic institutions, with co-authored peer-reviewed publications on quantum chemistry, and simulations on computational chemistry.
+I obtained a PhD in Physics (Dr. rer. nat. certificate) from the University of Bremen, Germany and a Bachelor degree in Radiochemistry (5 years program) from the Higher Institute of Technologies and Applied Sciences (InSTEC), Havana, Cuba. My scientific career has taken me to 4 countries (Canada, The Netherlands, Germany, USA) and 4 academic institutions, with co-authored peer-reviewed publications on quantum chemistry, and simulations on computational chemistry.
 With a specialization in Machine Learning, I am enthusiastic about solving real world problems. 
 Feel free to reach out to me via email or connect with me on LinkedIn.
 
