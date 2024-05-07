@@ -43,6 +43,13 @@ Essentials points in this Data Science Portfolio are:
     Tools & Techniques: 
     Links: 
 
+
+#### Project 5: 
+    Description:  
+    Tools & Techniques: 
+    Links: 
+    
+
     
 #### About Me
 I obtained a PhD in Physics (Dr. rer. nat. certificate) from the University of Bremen, Germany and a Bachelor degree in Radiochemistry (5 years program) from the Higher Institute of Technologies and Applied Sciences (InSTEC), Havana, Cuba. My scientific career has taken me to 4 countries (Canada, The Netherlands, Germany, USA) and 4 academic institutions, with co-authored peer-reviewed publications on quantum chemistry, and simulations on computational chemistry.
