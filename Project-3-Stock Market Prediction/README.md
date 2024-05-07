@@ -4,7 +4,7 @@ It is important to consider that predicting real-time financial asset prices is 
 
 Stock price prediction is a challenging yet intriguing problem in the financial domain. In this project, we will use machine learning, specifically neural networks, to predict the future stock prices of a selected company.
 
-
+cycu iv
 
 ### Expected Outcome:
 
