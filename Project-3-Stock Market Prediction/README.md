@@ -4,6 +4,7 @@ It is important to consider that predicting real-time financial asset prices is 
 
 Stock price prediction is a challenging yet intriguing problem in the financial domain. In this project, we will use machine learning, specifically neural networks, to predict the future stock prices of a selected company.
 
+Predicting the stock price of Apple, like any other stock, is a complex task influenced by a multitude of factors. Machine learning models can be used to analyze historical stock data, market trends, company financials, and external factors such as economic indicators or news sentiment to make predictions. Techniques such as LSTM (Long Short-Term Memory) networks, which are well-suited for sequential data like stock prices, can be employed to forecast future price movements. 
 
 ### Expected Outcome:
 
