@@ -38,10 +38,6 @@ Essentials points in this Data Science Portfolio are:
     Links: GitHub Repository
 
 
-#### Project 4: 
-    Description:  
-    Tools & Techniques: 
-    Links: 
 
 
  
