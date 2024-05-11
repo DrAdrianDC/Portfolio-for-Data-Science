@@ -44,10 +44,7 @@ Essentials points in this Data Science Portfolio are:
     Links: 
 
 
-#### Project 5: 
-    Description:  
-    Tools & Techniques: 
-    Links: 
+ 
     
 
     
