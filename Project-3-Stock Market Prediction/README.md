@@ -1,10 +1,10 @@
 # Project-3- Stock Market Prediction
 
-### Apple Stock Price Prediction using LSTM Model
-
 It is important to consider that predicting real-time financial asset prices is extremely complex due to the volatile and non-linear nature of financial markets. Therefore, it is crucial to conduct a thorough analysis and consider the limitations associated with this type of predictions.
 
 Stock price prediction is a challenging yet intriguing problem in the financial domain. In this project, we will use machine learning, specifically neural networks, to predict the future stock prices of Apple Inc.
+
+### Apple Stock Price Prediction using LSTM Model
 
 Predicting the stock price of Apple, like any other stock, is a complex task influenced by a multitude of factors. Machine learning models can be used to analyze historical stock data, market trends, company financials, and external factors such as economic indicators or news sentiment to make predictions. Techniques such as LSTM (Long Short-Term Memory) networks, which are well-suited for sequential data like stock prices, can be employed to forecast future price movements. 
 
