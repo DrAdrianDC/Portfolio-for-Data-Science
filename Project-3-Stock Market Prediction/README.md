@@ -8,6 +8,9 @@ Stock price prediction is a challenging yet intriguing problem in the financial 
 
 Predicting the stock price of Apple, like any other stock, is a complex task influenced by a multitude of factors. Machine learning models can be used to analyze historical stock data, market trends, company financials, and external factors such as economic indicators or news sentiment to make predictions. Techniques such as LSTM (Long Short-Term Memory) networks, which are well-suited for sequential data like stock prices, can be employed to forecast future price movements. 
 
+
+The code shared in this project obtains historical stock price data for Apple Inc from the open source yfinance library, preprocesses the data, builds and trains an LSTM model, and then uses the model to predict future stock prices. It also includes visualization of the data and the model's predictions.
+
 ### Expected Outcome:
 
 The project aims to develop a neural network-based model that can effectively predict future stock prices based on historical data. The model's performance will be evaluated using standard regression metrics, and improvements will be explored to enhance prediction accuracy.
