@@ -32,9 +32,9 @@ Essentials points in this Data Science Portfolio are:
     Links: GitHub Repository  
 
 #### Project 3: Stock Market Prediction
-    Description: Stock market prediction using Machine Learning
+    Description: Apple stock market prediction using Deep Learning
     Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, 
-                        Deep Learning
+                        Deep Learning, LSTM
     Links: GitHub Repository
 
 
