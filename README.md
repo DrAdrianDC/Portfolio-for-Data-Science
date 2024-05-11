@@ -1,8 +1,8 @@
-# Portfolio-for-Data-Science
+# Data Science Portfolio
 
 <img src="https://github.com/DrAdrianDC/Portfolio-for-Data-Science/assets/157868503/1ae2f241-d776-44ea-ae53-c0c1270384c1.type" width="750" height="450">
 
-Welcome to my Data Science portfolio! Here, you'll find a collection of projects I've worked on, showcasing my skills and experience in the field of Data Science and Machine Learning. Each project includes a brief description, the tools and techniques used, and links to the code and any related information.
+Welcome to my Data Science Portfolio! Here, you'll find a collection of projects I've worked on, showcasing my skills and experience in the field of Data Science and Machine Learning. Each project includes a brief description, the tools and techniques used, and links to the code and any related information.
 
 Essentials points in this Data Science Portfolio are:
 * Data Cleaning
