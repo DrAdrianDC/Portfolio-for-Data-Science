@@ -25,7 +25,7 @@ Essentials points in this Data Science Portfolio are:
     Links: GitHub Repository
     Streamlit web app: https://wine-quality-ml-app.streamlit.app/
 
-#### Project 2: Anomaly Detection in WTI Crude Oil prices using LTSM autoencoders
+#### Project 2: Anomaly Detection in WTI Crude Oil prices using LSTM autoencoders
 
     Description: Anomaly detection in West Texas Intermediate (WTI) Crude Oil Prices
     Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, 
