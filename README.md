@@ -39,7 +39,7 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
     Links: GitHub Repository
 
 
-#### Project 4: 
+#### Project 4: Transfer Learning for Image Classification
     Description: 
     Tools & Techniques: 
     Links: 
