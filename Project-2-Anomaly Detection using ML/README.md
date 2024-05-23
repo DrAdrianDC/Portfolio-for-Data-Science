@@ -41,4 +41,4 @@ In this project I am using the open source yfinance library to get financial dat
 
 # License
 
-This project is licensed under the terms of the MIT license ( See LICENSE.txt)
+This project is licensed under the terms of the MIT license (See LICENSE.txt)
