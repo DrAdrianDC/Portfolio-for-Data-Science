@@ -29,3 +29,8 @@ The project aims to develop a neural network-based model that can effectively pr
 # Dataset
 
 In this project I am using the open source yfinance library to get financial data from Yahoo Finance.
+
+
+# License
+
+This project is licensed under the terms of the MIT license ( See LICENSE.txt)
