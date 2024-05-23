@@ -23,3 +23,7 @@ https://wine-quality-ml-app.streamlit.app/
 
 In this project I am using the wine quality dataset available on Kaggle for free.
 https://www.kaggle.com/datasets/yasserh/wine-quality-dataset?resource=download&select=WineQT.csv
+
+# License
+
+This project is licensed under the terms of the MIT license ( See LICENSE.txt)
