@@ -21,3 +21,7 @@ By using Python and popular libraries such as Pandas, Numpy, it includes techniq
 
 In this project I am using the hotel booking demand dataset available on Kaggle for free.
 (https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download)
+
+# License
+
+This project is licensed under the terms of the MIT license ( See LICENSE.txt)
