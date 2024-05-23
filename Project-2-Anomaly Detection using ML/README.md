@@ -36,3 +36,9 @@ An LSTM autoencoder combines both of these concepts. It uses LSTM layers to lear
 # Dataset
 
 In this project I am using the open source yfinance library to get financial data from Yahoo Finance.
+
+
+
+# License
+
+This project is licensed under the terms of the MIT license ( See LICENSE.txt)
