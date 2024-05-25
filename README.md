@@ -46,6 +46,10 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
 
 
 
+## License
+
+This portfolio is licensed under the terms of the MIT license (See LICENSE.txt)
+
 
     
     
