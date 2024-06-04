@@ -39,16 +39,16 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
     Links: GitHub Repository
 
 
-#### Project 4: 
+#### Project 4: Cancer Detection using Transfer Learning
     Description: 
     Tools & Techniques: 
-    Links: 
+    Links: GitHub Repository
 
 
 #### Project 5: 
     Description: 
     Tools & Techniques: 
-    Links:
+    Links: GitHub Repository
     
 
 ## License
