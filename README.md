@@ -12,12 +12,12 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
 
 # Projects
 
-#### Project 0: Project on Data Cleaning
+#### Project 1: Project on Data Cleaning
     Description: A comprehensive process of cleaning and preparing raw data for analysis and modeling. 
     Tools & Techniques: Python, pandas, numpy, scipy
     Links: GitHub Repository
 
-#### Project 1: Wine Quality Prediction
+#### Project 2: Wine Quality Prediction
 
     Description: Predicting the quality of wines using physicochemical variables.
     Tools & Techniques: Python, pandas, scikit-learn, tensorflow, keras, XGBoost, Logistic regression, 
@@ -25,27 +25,27 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
     Links: GitHub Repository
     Streamlit web app: https://wine-quality-ml-app.streamlit.app/
 
-#### Project 2: Anomaly Detection in WTI Crude Oil prices using LSTM autoencoders
+#### Project 3: Anomaly Detection in WTI Crude Oil prices using LSTM autoencoders
 
     Description: Anomaly detection in West Texas Intermediate (WTI) Crude Oil Prices
     Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, 
                         LSTM autoencoders, Deep Learning
     Links: GitHub Repository  
 
-#### Project 3: Stock Market Prediction
+#### Project 4: Stock Market Prediction
     Description: Apple stock market prediction using Deep Learning
     Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, 
                         Deep Learning, LSTM
     Links: GitHub Repository
 
 
-#### Project 4: Cancer Detection using Transfer Learning
+#### Project 5: Cancer Detection using Transfer Learning
     Description: 
     Tools & Techniques: 
     Links: GitHub Repository
 
 
-#### Project 5: 
+#### Project 6: 
     Description: 
     Tools & Techniques: 
     Links: GitHub Repository
