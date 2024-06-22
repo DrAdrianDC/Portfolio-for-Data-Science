@@ -2,7 +2,11 @@
 
 This repository contains a comprehensive project focused on utilizing transfer learning for cancer detection through medical image analysis. Leveraging the power of pre-trained deep learning models, specifically VGG19, this project aims to improve the accuracy and efficiency of cancer diagnosis by automating the analysis of medical images.
 
+##### Main Objectives
+Apply Transfer Learning: Utilize the pre-trained VGG19 model to enhance the accuracy of cancer detection in medical images.
 
+##### Expected Outcomes
+Accurate Cancer Detection: Achieve a high level of accuracy in detecting cancer from medical images, demonstrating the effectiveness of transfer learning in this domain.
 
 
 ### Requirements 
