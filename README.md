@@ -45,11 +45,6 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
     Links: GitHub Repository
 
 
-#### Project 6: 
-    Description: 
-    Tools & Techniques: 
-    Links: GitHub Repository
-    
 
 ## License
 
