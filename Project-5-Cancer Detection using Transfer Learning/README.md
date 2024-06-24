@@ -6,6 +6,11 @@ This repository contains a comprehensive project focused on utilizing transfer l
 
 Transfer learning is a machine learning technique where a pre-trained model, originally trained on a large dataset for a specific task, is reused as the starting point for a model on a new, but related task. This approach leverages the knowledge gained from the original task to improve the performance on the new task.
 
+Some advantages of Transfer Learning for Image Recognition are:
+- Reduced Training Time
+- Better Performance with Limited Data
+- Easier Model Convergence
+- Improved Accuracy
 
 ##### Main Objective
 Apply Transfer Learning: Utilize the pre-trained model to enhance the accuracy of cancer detection in medical images.
