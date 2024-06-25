@@ -5,7 +5,7 @@ This repository contains code for a breast cancer classification project using S
 
 ## Dataset
 
-The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, available in the sklearn.datasets module.
+The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, available at https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 
 ## License
