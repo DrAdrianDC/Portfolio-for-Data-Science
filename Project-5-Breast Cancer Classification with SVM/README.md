@@ -7,8 +7,7 @@ This repository contains code for a breast cancer classification project using S
 
 The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, available in the sklearn.datasets module.
 
-## Results
-
-The SVM model achieved an accuracy of XX% on the test set.
 
 ## License
+
+This project is licensed under the terms of the MIT license (See LICENSE.txt)
