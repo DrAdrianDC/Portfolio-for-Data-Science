@@ -38,7 +38,7 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
                         Deep Learning, LSTM
     Links: GitHub Repository
 
-#### Project 5: 
+#### Project 5: Breast Cancer Classification with SVM
     Description: 
     Tools & Techniques: 
     Links: GitHub Repository    
