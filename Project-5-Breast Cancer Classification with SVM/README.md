@@ -16,9 +16,7 @@ Cancer remains one of the most significant health challenges worldwide. Early an
 
 ## Dataset
 
-The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, available at https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
-In the current project folder is downladed as data.csv
 
 ## License
 
