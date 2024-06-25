@@ -13,6 +13,15 @@ Cancer remains one of the most significant health challenges worldwide. Early an
 3. Model Evaluation: Assess the performance of the SVM model using appropriate metrics.
 4. Conclusion: Summarize the findings and discuss the effectiveness of the SVM model for this classification task.
 
+## Requirements
+
+    Python 
+    TensorFlow 
+    Pandas 
+    Numpy 
+    Scikit-learn 
+    Keras 
+
 
 ## Dataset
 
