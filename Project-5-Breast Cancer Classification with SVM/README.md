@@ -16,6 +16,8 @@ Cancer remains one of the most significant health challenges worldwide. Early an
 
 ## Dataset
 
+The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, available in the sklearn.datasets module.
+
 
 
 ## License
