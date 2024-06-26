@@ -12,10 +12,15 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
 
 # Projects
 
-#### Project 1: Project on Data Cleaning
+#### Project 0: Project on Data Cleaning
     Description: A comprehensive process of cleaning and preparing raw data for analysis and modeling. 
     Tools & Techniques: Python, pandas, numpy, scipy
     Links: GitHub Repository
+
+#### Project 1: Breast Cancer Classification with SVM
+    Description: 
+    Tools & Techniques: 
+    Links: GitHub Repository    
 
 #### Project 2: Wine Quality Prediction
 
@@ -38,12 +43,8 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
                         Deep Learning, LSTM
     Links: GitHub Repository
 
-#### Project 5: Breast Cancer Classification with SVM
-    Description: 
-    Tools & Techniques: 
-    Links: GitHub Repository    
 
-#### Project 6: Cancer Detection using Transfer Learning
+#### Project 5: Cancer Detection using Transfer Learning
     Description: 
     Tools & Techniques: 
     Links: GitHub Repository
