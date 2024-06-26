@@ -19,7 +19,7 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
 
 #### Project 1: Breast Cancer Classification with SVM
     Description: Classification problem using Support Vector Machine (SVM) in biomedical research
-    Tools & Techniques: Python, scikit-learn, numpy, pandas, matplotlib, seaborn
+    Tools & Techniques: Python, scikit-learn, numpy, pandas, matplotlib, seaborn, SVM
     Links: GitHub Repository    
 
 #### Project 2: Wine Quality Prediction
