@@ -13,6 +13,10 @@ Cancer remains one of the most significant health challenges worldwide. Early an
 3. Model Evaluation: Assess the performance of the SVM model using appropriate metrics.
 4. Conclusion: Summarize the findings and discuss the effectiveness of the SVM model for this classification task.
 
+#### Results
+The SVM model achieved an accuracy of 96% on the test set.
+
+
 ## Requirements
 
     Python 3.8.3
