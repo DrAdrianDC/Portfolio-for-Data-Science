@@ -30,7 +30,7 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
     Links: GitHub Repository
     Streamlit web app: https://wine-quality-ml-app.streamlit.app/
 
-#### Project 3: WTI Crude Oil Prices Anomaly Detection 
+#### Project 3: WTI Oil Prices Anomaly Detection 
 
     Description: Anomaly detection in West Texas Intermediate (WTI) Crude Oil Prices
     Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, 
