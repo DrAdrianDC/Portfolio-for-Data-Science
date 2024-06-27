@@ -17,7 +17,7 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
     Tools & Techniques: Python, pandas, numpy, scipy
     Links: GitHub Repository
 
-#### Project 1: Breast Cancer Classification with SVM
+#### Project 1: Breast Cancer Classification 
     Description: Classification problem using Support Vector Machine (SVM) in biomedical research
     Tools & Techniques: Python, scikit-learn, numpy, pandas, matplotlib, seaborn, SVM
     Links: GitHub Repository    
@@ -30,21 +30,21 @@ Welcome to my Data Science Portfolio! Here, you'll find a collection of projects
     Links: GitHub Repository
     Streamlit web app: https://wine-quality-ml-app.streamlit.app/
 
-#### Project 3: Anomaly Detection in WTI Crude Oil prices using LSTM autoencoders
+#### Project 3: WTI Crude Oil Prices Anomaly Detection 
 
     Description: Anomaly detection in West Texas Intermediate (WTI) Crude Oil Prices
     Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, 
                         LSTM autoencoders, Deep Learning
     Links: GitHub Repository  
 
-#### Project 4: Stock Market Prediction
+#### Project 4: Apple Stock Market Prediction
     Description: Apple stock market prediction using Deep Learning
     Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, 
                         Deep Learning, LSTM
     Links: GitHub Repository
 
 
-#### Project 5: Cancer Detection using Transfer Learning
+#### Project 5: Cancer Detection with Transfer Learning
     Description: 
     Tools & Techniques: 
     Links: GitHub Repository
