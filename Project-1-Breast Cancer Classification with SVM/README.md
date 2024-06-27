@@ -1,4 +1,4 @@
-## Project-1 Breast Cancer Classification with SVM
+## Project-1 Breast Cancer Classification
 
 This repository contains code for a breast cancer classification project using Support Vector Machines (SVM). The code demonstrates how to preprocess the data, train an SVM model, and evaluate its performance.
 
