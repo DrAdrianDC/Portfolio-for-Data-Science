@@ -7,11 +7,6 @@ This repository contains code for a breast cancer classification project using S
 #### Introduction
 Cancer remains one of the most significant health challenges worldwide. Early and accurate detection is crucial for effective treatment and improved patient outcomes. Machine learning, specifically Support Vector Machine (SVM), offers a powerful tool for classifying cancerous and healthy tissues based on various biomarkers. This project aims to build an SVM model to classify samples as either cancerous or healthy using Python.
 
-#### Objectives
-1. Data Collection and Preprocessing: Gather a dataset containing cancerous and healthy samples and preprocess it for model training.
-2. Model Building: Construct an SVM model to classify the samples.
-3. Model Evaluation: Assess the performance of the SVM model using appropriate metrics.
-4. Conclusion: Summarize the findings and discuss the effectiveness of the SVM model for this classification task.
 
 #### Results
 The SVM model achieved an accuracy of 96% on the test set.
