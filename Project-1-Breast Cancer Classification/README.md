@@ -23,14 +23,16 @@ Cancer remains one of the most significant health challenges worldwide. Early an
 Breast_Cancer_Classification/
 │
 ├── SVM_Full_Features/
-│ └── SVM_full_features.ipynb
+│ └── Breast-Cancer-SVM.ipynb
 │ └── README.md
 │
 ├── PCA_Feature_Reduction/
-│ └── PCA_feature_reduction.ipynb
+│ └── Breast-Cancer-PCA.ipynb
 │ └── README.md
 │
 └── README.md
+
+
 
 
 ## Requirements
