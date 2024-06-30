@@ -1,11 +1,25 @@
 ## Project-1 Breast Cancer Classification
 
-This repository contains code for a breast cancer classification project using Support Vector Machines (SVM). The code demonstrates how to preprocess the data, train an SVM model, and evaluate its performance.
 
+This repository is divided in two parts. The first part contains code for a breast cancer classification project using Support Vector Machines (SVM). And a second part about feature reduction using Principal Component Analysis (PCA).
 
+The project demonstrates how to preprocess data, train an SVM model, evaluate its performance, and perform feature reduction using Principal Component Analysis (PCA).
 
-#### Introduction
+## Introduction
+
 Cancer remains one of the most significant health challenges worldwide. Early and accurate detection is crucial for effective treatment and improved patient outcomes. Machine learning, specifically Support Vector Machine (SVM), offers a powerful tool for classifying cancerous and healthy tissues based on various biomarkers. This project aims to build an SVM model to classify samples as either cancerous or healthy using Python.
+
+## Objectives
+
+1. **Data Collection and Preprocessing**: Gather a dataset containing cancerous and healthy samples and preprocess it for model training.
+2. **Model Building**: Construct an SVM model to classify the samples.
+3. **Model Evaluation**: Assess the performance of the SVM model using appropriate metrics.
+4. **Feature Reduction (PCA)**: Perform PCA to reduce the dimensionality of the dataset and evaluate the impact on model performance.
+5. **Conclusion**: Summarize the findings and discuss the effectiveness of the SVM model and the PCA analysis for this classification task.
+
+
+## Repository Structure
+
 
 
 
