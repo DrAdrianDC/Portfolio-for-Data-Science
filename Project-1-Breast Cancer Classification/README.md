@@ -20,6 +20,7 @@ Cancer remains one of the most significant health challenges worldwide. Early an
 
 ## Repository Structure
 
+<img src="https://github.com/DrAdrianDC/Portfolio-for-Data-Science/assets/157868503/1effea7b-d583-41b4-9e0c-ccf34c93b0c8" alt="Repository-Structure" width="500" height="300"/>
 
 ![Repository-Structure](https://github.com/DrAdrianDC/Portfolio-for-Data-Science/assets/157868503/1effea7b-d583-41b4-9e0c-ccf34c93b0c8)
 
