@@ -1,6 +1,6 @@
 # SVM Full Features
 
-This folder contains the code and resources for building and evaluating the SVM model using all 30 features.
+This folder contains the code and resources for building and evaluating the SVM model using all features.
 
 
 ## Steps
