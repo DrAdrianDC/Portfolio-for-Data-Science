@@ -7,7 +7,7 @@ The project demonstrates how to preprocess data, train an SVM model, evaluate it
 
 ## Introduction
 
-Cancer remains one of the most significant health challenges worldwide. Early and accurate detection is crucial for effective treatment and improved patient outcomes. Machine learning, specifically Support Vector Machine (SVM), offers a powerful tool for classifying cancerous and healthy tissues based on various biomarkers. This project aims to build an SVM model to classify samples as either cancerous or healthy using Python.
+Cancer remains one of the most significant health challenges worldwide. Early and accurate detection is crucial for effective treatment and improved patient outcomes. Machine learning, specifically Support Vector Machine (SVM), offers a powerful tool for classifying cancerous and healthy tissues based on various biomarkers. This project aims to build an SVM model to classify samples as either cancerous or healthy using Python. On the other hand, with the PCA application to the dataset to reduce the dimensionality while retaining most of the variance in the data. This step helps in simplifying the model, reducing computational cost, and potentially improving the model's generalization.
 
 ## Objectives
 
