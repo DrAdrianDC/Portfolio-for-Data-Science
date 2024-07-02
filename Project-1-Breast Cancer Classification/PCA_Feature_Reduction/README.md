@@ -1,6 +1,6 @@
 # PCA Feature Reduction
 
-This folder contains the code and resources for performing PCA for feature reduction
+This repository contains code and documentation for performing Principal Component Analysis (PCA) to reduce the dimensionality of a dataset. PCA is a powerful technique used in data preprocessing and exploratory data analysis to identify the most important features and remove redundant ones, thus simplifying the dataset while retaining as much variability as possible.
 
 ## Steps
 
