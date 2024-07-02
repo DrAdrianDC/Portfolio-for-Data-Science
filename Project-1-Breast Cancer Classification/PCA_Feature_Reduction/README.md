@@ -10,7 +10,7 @@ This repository contains code and documentation for performing Principal Compone
 
 ## Results
 
-The new dataset with reduced features after PCA is saved as important_features_dataset.csv
+The new dataset with reduced features after PCA is saved as ** important_features_dataset.csv **
 
 ## Requirements
 
