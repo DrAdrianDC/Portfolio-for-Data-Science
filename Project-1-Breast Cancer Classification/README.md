@@ -43,7 +43,7 @@ Cancer remains one of the most significant health challenges worldwide. Early an
 ## Results 
 Initial SVM Model (Full Features): Achieved 96% accuracy using an SVM model with C=1.0 on the original dataset with full features.
 
-PCA Applied Dataset: After applying PCA to reduce dimensionality, you achieved 96% accuracy using SVM with C=10. This suggests that the reduced dataset maintains predictive power comparable to the original full-feature dataset.
+PCA Applied Dataset: After applying PCA to reduce dimensionality, a  96% accuracy value is achieved using SVM with C=10. This suggests that the reduced dataset maintains predictive power comparable to the original full-feature dataset.
 
  PCA successfully reduced the dataset's dimensionality while preserving most of the predictive information, as evidenced by the consistent 96% accuracy. Both the original SVM model on full features and the PCA-reduced SVM model perform equally well, indicating that PCA can simplify the model without sacrificing accuracy.
 
