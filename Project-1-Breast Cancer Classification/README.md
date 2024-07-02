@@ -22,11 +22,21 @@ Cancer remains one of the most significant health challenges worldwide. Early an
 
 - **Breast_Cancer_Classification/**
   - **SVM_Full_Features/**
-    - `Breast_Cancer_SVM.ipynb`
+    - `Breast-Cancer-SVM.ipynb`
+    -  `svm_model.h5`
     - `README.md`
+    - `LICENSE.txt`
   - **PCA_Feature_Reduction/**
     - `Breast-Cancer-PCA.ipynb`
+    - `important_features_dataset.csv`
     - `README.md`
+    - `LICENSE.txt`
+  - **SVM_Reduced_Features/**
+    - `Breast-Cancer-SVM-reduced-features.ipynb`
+    -  `important_features_dataset.csv`
+    - `svm-reduced-features_model.h5`
+    - `README.md`
+    - `LICENSE.txt`
   - `README.md`
 
 
