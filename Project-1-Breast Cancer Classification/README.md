@@ -35,6 +35,18 @@ Breast_Cancer_Classification/
 
 
 
+
+- **Breast_Cancer_Classification/**
+  - **SVM_Full_Features/**
+    - `Breast_Cancer_SVM.ipynb`
+    - `README.md`
+  - **PCA_Feature_Reduction/**
+    - `Breast-Cancer-PCA.ipynb`
+    - `README.md`
+  - `README.md`
+
+
+
 ## Requirements
 
     Python 3.8.3
