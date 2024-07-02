@@ -12,7 +12,7 @@ This folder contains the code and resources for building and evaluating the SVM 
 
 
 #### Results
-The SVM model achieved an accuracy of 96% on the test set.
+The SVM model achieved an accuracy of % on the test set.
 
 
 ## Requirements
