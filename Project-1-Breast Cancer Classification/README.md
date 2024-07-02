@@ -20,22 +20,6 @@ Cancer remains one of the most significant health challenges worldwide. Early an
 
 ## Repository Structure
 
-
-Breast_Cancer_Classification/
-  |
-  |__ SVM_Full_Features/
-  |  |__ Breast_Cancer_SVM.ipynb 
-  |  |__ README.md
-  |
-  |__ PCA_Feature_Reduction/
-  |  |__ Breast-Cancer-PCA.ipynb
-  |  |__ README.md
-  |
-  |__ README.md
-
-
-
-
 - **Breast_Cancer_Classification/**
   - **SVM_Full_Features/**
     - `Breast_Cancer_SVM.ipynb`
