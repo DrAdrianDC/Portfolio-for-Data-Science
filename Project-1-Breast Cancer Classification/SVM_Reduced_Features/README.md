@@ -30,4 +30,9 @@ The SVM model achieved an accuracy of 96% on the test set.
 The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, available in the sklearn.datasets module.
 
 
+## License
+
+This project is licensed under the terms of the MIT license (See LICENSE.txt)
+
+
 
