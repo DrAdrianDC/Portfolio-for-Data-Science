@@ -21,6 +21,12 @@ Accurate Cancer Detection: Achieve a high level of accuracy in detecting cancer 
 
 ### Requirements 
 
+    Python 3.8.3
+    Pandas 2.0.3
+    Numpy 1.21.0
+    Scikit-learn 1.3.2
+    Matplotlib 3.2.2
+    Seaborn 0.10.1
 
 
 ### Dataset
