@@ -14,6 +14,7 @@ The most relevant results obtained for the Machine Learning algorithms explored 
 * XGBoost ( 76.38%)
 * Deep Neural Network (75.22%)
 * Logistic Regression (73.4%)
+  
 The accuracy of the wine quality prediction results can be improved by increasing the amount of data obtaining a superior balance between the different class of wine quality studied here.
 
 
