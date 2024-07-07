@@ -46,7 +46,7 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
     Links: GitHub Repository
 
 
-#### Project 5: Cancer Detection with Transfer Learning
+#### Project 5: Image Classification
     Description: 
     Tools & Techniques: 
     Links: GitHub Repository
