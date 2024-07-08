@@ -1,6 +1,7 @@
 ## Project-5 Image Classification 
 
-This repository contains a comprehensive project focused on utilizing transfer learning for image analysis. Leveraging the power of pre-trained deep learning models, this project aims to improve the accuracy and efficiency of image analysis.
+
+This repository contains an in-depth comparison of three image classification techniques: Transfer Learning, Custom Convolutional Neural Networks (CNNs), and XGBoost with features extracted from a pre-trained CNN. The comparison highlights the strengths and weaknesses of each approach based on their test accuracies.
 
 #### Why Transfer Learning?
 
@@ -13,7 +14,7 @@ Some advantages of Transfer Learning for Image Recognition are:
 - Improved Accuracy
 
 ##### Main Objective
-Apply Transfer Learning: Utilize the pre-trained model to enhance the accuracy of images.
+Compare Image Classification Techniques: Evaluate the effectiveness of Transfer Learning, Custom CNNs, and XGBoost with pre-trained CNN features to enhance the accuracy of image classification.
 
 ##### Expected Outcomes
 Accurate Image Classiifcation: Achieve a high level of accuracy in lassifying images , demonstrating the effectiveness of transfer learning in this domain.
