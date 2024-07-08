@@ -1,7 +1,7 @@
 ## Project-5 Image Classification 
 
 
-This repository contains an in-depth comparison of three image classification techniques: Transfer Learning, Custom Convolutional Neural Networks (CNNs), and XGBoost with features extracted from a pre-trained CNN. The comparison highlights the strengths and weaknesses of each approach based on their test accuracies.
+This repository contains an in-depth comparison of three image classification techniques: Transfer Learning, Convolutional Neural Networks (CNNs), and XGBoost with features extracted from a pre-trained CNN. The comparison highlights the strengths and weaknesses of each approach based on their test accuracies.
 
 #### Why Transfer Learning?
 
@@ -12,6 +12,15 @@ Some advantages of Transfer Learning for Image Recognition are:
 - Better Performance with Limited Data
 - Easier Model Convergence
 - Improved Accuracy
+
+#### Why Convolutional Neural Networks (CNNs)?
+
+Convolutional Neural Networks (CNNs) are a powerful tool for image classification tasks, offering several advantages:
+Advantages of CNNs for Image Recognition
+
+  -  Feature Extraction: CNNs automatically learn and extract relevant features from images, which makes them highly effective for tasks involving complex visual patterns.
+  -  Flexibility: Custom CNNs can be tailored to specific datasets and tasks, allowing for optimization of the architecture to meet the unique requirements of the project.
+ - End-to-End Learning: CNNs can learn to classify images directly from raw pixel data, simplifying the pipeline and potentially improving performance.
 
 ##### Main Objective
 Compare Image Classification Techniques: Evaluate the effectiveness of Transfer Learning, Custom CNNs, and XGBoost with pre-trained CNN features to enhance the accuracy of image classification.
