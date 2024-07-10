@@ -1,8 +1,6 @@
 ## Project-5 Image Classification 
 
-
-This repository contains an in-depth comparison of three image classification techniques: Transfer Learning, Convolutional Neural Networks (CNNs), and XGBoost with features extracted from a pre-trained CNN. The comparison highlights the strengths and weaknesses of each approach based on their test accuracies.
-
+ This project demonstrates how to leverage Transfer Learning to build robust image classification models using pre-trained deep learning architectures
 
 
 #### Overview
