@@ -3,6 +3,16 @@
 
 This repository contains an in-depth comparison of three image classification techniques: Transfer Learning, Convolutional Neural Networks (CNNs), and XGBoost with features extracted from a pre-trained CNN. The comparison highlights the strengths and weaknesses of each approach based on their test accuracies.
 
+
+
+#### Overview
+
+In this project, we focus on the CIFAR-10 dataset, a widely used benchmark in the field of image classification. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 50,000 training images and 10,000 test images. The classes represent common objects such as airplanes, cars, birds, and more.
+Transfer Learning Approach
+
+The core of this project revolves around the application of Transfer Learning using the VGG16 model. VGG16 is a Convolutional Neural Network (CNN) architecture that was originally trained on the ImageNet dataset, which contains over a million images across a thousand categories. By using VGG16, we can transfer the learned features to the CIFAR-10 dataset, greatly enhancing the model's performance without requiring extensive computational resources.
+
+
 #### Why Transfer Learning?
 
 Transfer learning is a machine learning technique where a pre-trained model, originally trained on a large dataset for a specific task, is reused as the starting point for a model on a new, but related task. This approach leverages the knowledge gained from the original task to improve the performance on the new task.
@@ -12,7 +22,6 @@ Some advantages of Transfer Learning for Image Recognition are:
 - Better Performance with Limited Data
 - Easier Model Convergence
 - Improved Accuracy
-
 
 
 
