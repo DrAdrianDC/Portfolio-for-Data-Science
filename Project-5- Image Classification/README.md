@@ -13,24 +13,6 @@ Some advantages of Transfer Learning for Image Recognition are:
 - Easier Model Convergence
 - Improved Accuracy
 
-#### Why Convolutional Neural Networks (CNNs)?
-
-Convolutional Neural Networks (CNNs) are a powerful tool for image classification tasks, offering several advantages:
-Advantages of CNNs for Image Recognition
-
-  -  Feature Extraction: CNNs automatically learn and extract relevant features from images, which makes them highly effective for tasks involving complex visual patterns.
-  -  Flexibility: Custom CNNs can be tailored to specific datasets and tasks, allowing for optimization of the architecture to meet the unique requirements of the project.
- - End-to-End Learning: CNNs can learn to classify images directly from raw pixel data, simplifying the pipeline and potentially improving performance.
-
-
-#### Why XGBoost with features extracted from a pre-trained CNN?
-Incorporating XGBoost with features extracted from a pre-trained CNN adds a unique and powerful dimension to image classification tasks. This hybrid approach leverages the strengths of both convolutional neural networks and gradient boosting algorithms.
-Advantages of Using XGBoost with Pre-trained CNN Features
-
- -   Leveraging Deep Learning Features: By using a pre-trained CNN, we can extract high-level features from images that capture complex patterns and details, which traditional machine learning algorithms might miss.
- -   Enhanced Performance: XGBoost is a highly efficient and scalable gradient boosting algorithm known for its superior performance in various machine learning competitions. Combining it with features from a CNN can significantly enhance classification accuracy.
- -   Reduced Training Time: Instead of training a deep learning model from scratch, this approach reuses learned features from a pre-trained model, speeding up the training process while maintaining high accuracy.
- -   Better Generalization: The pre-trained CNN features often generalize well to new tasks, while XGBoost can further fine-tune the classification based on these features, resulting in improved generalization on the test set.
 
 
 
@@ -38,8 +20,7 @@ Advantages of Using XGBoost with Pre-trained CNN Features
 Compare Image Classification Techniques: Evaluate the effectiveness of Transfer Learning, Custom CNNs, and XGBoost with pre-trained CNN features to enhance the accuracy of image classification.
 
 ##### Expected Outcomes
-* Accurate Image Classification: Achieve high levels of accuracy in classifying images, demonstrating the effectiveness of each technique.
-* Detailed Comparison: Provide a comprehensive comparison of the test accuracies and performance of Transfer Learning, Custom CNNs, and XGBoost with pre-trained CNN features.
+* Accurate Image Classification: Achieve high levels of accuracy in classifying images, demonstrating the effectiveness of Transfer Learning
 
 ### Requirements 
 
