@@ -17,7 +17,7 @@ Some advantages of Transfer Learning for Image Recognition are:
 
 
 ##### Main Objective
-Compare Image Classification Techniques: Evaluate the effectiveness of Transfer Learning, Custom CNNs, and XGBoost with pre-trained CNN features to enhance the accuracy of image classification.
+Compare Image Classification Techniques: Evaluate the effectiveness of Transfer Learning to enhance the accuracy of image classification.
 
 ##### Expected Outcomes
 * Accurate Image Classification: Achieve high levels of accuracy in classifying images, demonstrating the effectiveness of Transfer Learning
