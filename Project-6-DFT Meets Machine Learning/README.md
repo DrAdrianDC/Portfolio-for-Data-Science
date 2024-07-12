@@ -11,7 +11,7 @@ The title of the publication is:
 
 Published on Theoretical Chemistry Accounts, part of the collection Machine Learning meets Quantum Chemistry
 Now available: https://link.springer.com/article/10.1007/s00214-024-03124-x
-(See publication folder)
+
 
 The prediction of hydrogen adsorption energies on complex oxides by integrating DFT calculations and Machine Learning is considered. 
 In particular, 14 descriptors for electronic and geometric properties evaluation are adapted within a 336 hydrogen adsorption energy 
