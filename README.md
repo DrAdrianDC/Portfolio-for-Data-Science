@@ -47,7 +47,7 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
 
 
 #### Project 5: Image Classification
-    Description: 
+    Description: Image Classification using Transfer Learning
     Tools & Techniques: 
     Links: GitHub Repository
 
