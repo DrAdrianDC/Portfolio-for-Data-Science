@@ -1,4 +1,6 @@
 
+# DFT Meets Machine Learning
+
 ## Overview
 
 This project is about Density Functional Theory (DFT) and Machine Learning applied to Physical Chemistry, and it is part of my Postdoc research at Vanderbilt University.
