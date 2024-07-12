@@ -36,6 +36,10 @@ the exploration of materials for catalysis, with a significance to assisting in 
     - `Correlation-matrix.ipynb`
   - **data/**
     - `Data.xlsx`
+  - **publication/**
+    - `PAPER-Theoretical-Chemistry-Accounts.pdf`
+    - `Supporting-Information.pdf`
+   
 
 ## Requirements
 
