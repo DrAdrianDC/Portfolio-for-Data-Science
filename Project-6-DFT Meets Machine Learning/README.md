@@ -1,4 +1,5 @@
-# Overview
+
+## Overview
 
 This project is about Density Functional Theory (DFT) and Machine Learning applied to Physical Chemistry, and it is part of my Postdoc research at Vanderbilt University.
 The title of the publication is:  
@@ -16,14 +17,26 @@ results, a MAE of about 0.06 eV is achieved. This research highlights the synerg
 the exploration of materials for catalysis, with a significance to assisting in the understanding of structure-reactivity relationship of high-entropy oxides.
 
 
-# Project
+## Project
 
     Description: Predicting hydrogen adsorption energies on rocksalt complex oxides combining DFT calculations and machine learning.
     Tools & Techniques: Python, pandas, scikit-learn, tensorflow, keras, Linear Regression, 
     Random Forest, Neural networks, Deep Learning, data visualization
     Links: GitHub Repository
 
-# Requirements
+
+
+## Repository Structure
+
+- **Breast_Cancer_Classification/**
+  - **SVM_Full_Features/**
+    - `Breast-Cancer-SVM.ipynb`
+    -  `svm_model.h5`
+    - `README.md`
+    - `LICENSE.txt`
+
+
+## Requirements
 
 * Python 3.8.3
 * TensorFlow 2.10.0
@@ -34,6 +47,6 @@ the exploration of materials for catalysis, with a significance to assisting in 
 
 
 
-# Dataset
+## Dataset
 
 The full dataset was obtained from DFT calculations. (See Data.xlsx)
