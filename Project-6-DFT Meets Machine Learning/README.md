@@ -30,13 +30,12 @@ the exploration of materials for catalysis, with a significance to assisting in 
 
 ## Repository Structure
 
-- **Breast_Cancer_Classification/**
-  - **SVM_Full_Features/**
-    - `Breast-Cancer-SVM.ipynb`
-    -  `svm_model.h5`
-    - `README.md`
-    - `LICENSE.txt`
-
+- **DFT Meets Machine Learning/**
+  - **notebooks/**
+    - `Notebook.ipynb`
+    - `Correlation-matrix.ipynb`
+  - **data/**
+    - `Data.xlsx`
 
 ## Requirements
 
