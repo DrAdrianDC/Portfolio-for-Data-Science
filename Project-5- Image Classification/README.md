@@ -2,10 +2,6 @@
 
  This project demonstrates how to leverage Transfer Learning to build robust image classification models using pre-trained deep learning architectures
 
-Transfer learning for image classification is a technique where a model that has already been trained on a large dataset (such as ImageNet, which contains millions of images of various objects) is used as the starting point for a new, related task. The idea is that the pre-trained model has already learned useful features, such as edges, shapes, and textures, which can be helpful for recognizing different kinds of images. Instead of training a new model from scratch, which requires a lot of data and computational power, you can take advantage of the knowledge already captured by the pre-trained model.
-
-In practice, you take the pre-trained model and freeze its early layers, which capture generic features that are useful across many different tasks. Then, you add a few new layers on top of the model to tailor it to your specific task. For instance, if you want to classify images of different types of flowers, you add layers that will learn the specific characteristics of those flowers. You then train these new layers, and possibly some of the later layers of the pre-trained model, using your own dataset. This process, known as fine-tuning, adjusts the model to recognize the new categories, making it highly efficient and effective even with a limited amount of new data.
-
 #### Overview
 
 In this project, we focus on the CIFAR-10 dataset, a widely used benchmark in the field of image classification. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 50,000 training images and 10,000 test images. The classes represent common objects such as airplanes, cars, birds, and more.
@@ -16,7 +12,9 @@ The core of this project revolves around the application of Transfer Learning us
 
 #### Why Transfer Learning?
 
-Transfer learning is a machine learning technique where a pre-trained model, originally trained on a large dataset for a specific task, is reused as the starting point for a model on a new, but related task. This approach leverages the knowledge gained from the original task to improve the performance on the new task.
+Transfer learning is a machine learning technique where a pre-trained model, originally trained on a large dataset for a specific task, is reused as the starting point for a model on a new, but related task. This approach leverages the knowledge gained from the original task to improve the performance on the new task. ( The idea is that the pre-trained model has already learned useful features, such as edges, shapes, and textures, which can be helpful for recognizing different kinds of images).
+
+In practice, you take the pre-trained model and freeze its early layers, which capture generic features that are useful across many different tasks. Then, you add a few new layers on top of the model to tailor it to your specific task. For instance, if you want to classify images of different types of flowers, you add layers that will learn the specific characteristics of those flowers. You then train these new layers, and possibly some of the later layers of the pre-trained model, using your own dataset. This process, known as fine-tuning, adjusts the model to recognize the new categories, making it highly efficient and effective even with a limited amount of new data.
 
 Some advantages of Transfer Learning for Image Recognition are:
 - Reduced Training Time
