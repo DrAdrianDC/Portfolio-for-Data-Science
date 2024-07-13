@@ -1,6 +1,6 @@
 ## Project-5 Image Classification 
 
- This project demonstrates how to leverage Transfer Learning to build robust image classification models using pre-trained deep learning architectures
+
 
 #### Overview
 
