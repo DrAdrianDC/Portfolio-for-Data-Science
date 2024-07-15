@@ -21,22 +21,22 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
 
 #### Project 1: Breast Cancer Classification 
     Description: Classification problem using Support Vector Machine (SVM) in biomedical research
-    Tools & Techniques: Python, scikit-learn, numpy, pandas, matplotlib, seaborn, SVM
+    Tools & Techniques: Python, Machine Learning, SVM, scikit-learn, numpy, pandas, matplotlib, seaborn
     Links: GitHub Repository    
 
 #### Project 2: Wine Quality Prediction
 
     Description: Predicting the quality of wines using physicochemical variables.
-    Tools & Techniques: Python, pandas, scikit-learn, tensorflow, keras, XGBoost, Logistic regression, 
-    Random Forest, Neural networks, data visualization, Streamlit web app.
+    Tools & Techniques: Python, Machine Learning,  XGBoost, Logistic regression, 
+    Random Forest, Neural networks, pandas, scikit-learn, tensorflow, keras, data visualization, Streamlit web app.
     Links: GitHub Repository
     Streamlit web app: https://wine-quality-ml-app.streamlit.app/
 
 #### Project 3: WTI Oil Prices Anomaly Detection 
 
     Description: Anomaly detection in West Texas Intermediate (WTI) Crude Oil Prices
-    Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, data visualization, 
-                        LSTM autoencoders, Deep Learning
+    Tools & Techniques: Python, Deep Learning, yfinance, pandas,tensorflow, keras, data visualization, 
+                        LSTM autoencoders 
     Links: GitHub Repository  
 
 #### Project 4: Apple Stock Market Prediction
@@ -53,8 +53,8 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
 
 #### Project 6: DFT Meets Machine Learning
     Description: Predicting hydrogen adsorption energies on rocksalt complex oxides combining DFT calculations and machine learning.
-    Tools & Techniques: Python, pandas, scikit-learn, tensorflow, keras, Linear Regression, 
-    Random Forest, Neural networks, Deep Learning, data visualization
+    Tools & Techniques: Python, Machine Learning, Deep Learning, Linear Regression, 
+    Random Forest, Neural networks, pandas, scikit-learn, tensorflow, keras, data visualization
     Links: GitHub Repository
 
 ## License
