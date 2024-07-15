@@ -30,6 +30,10 @@ Some advantages of Transfer Learning for Image Recognition are:
 ##### Expected Outcomes
 * Accurate Image Classification: Achieve high levels of accuracy in classifying images, demonstrating the effectiveness of Transfer Learning
 
+
+##### Results
+
+
 ### Requirements 
 
     Python 3.8.3
