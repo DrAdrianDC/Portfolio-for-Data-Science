@@ -2,7 +2,7 @@
 
 In this project, we utilize transfer learning for image classification using a pre-trained VGG16 model on the CIFAR-10 dataset. By fine-tuning this model on our specific dataset, we aim to improve classification accuracy efficiently. 
 
-#### Overview
+### Overview
 
 In this work, we focus on the CIFAR-10 dataset, a widely used benchmark in the field of image classification. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 50,000 training images and 10,000 test images. The classes represent common objects such as airplanes, cars, birds, and more.
 Transfer Learning Approach
@@ -10,7 +10,7 @@ Transfer Learning Approach
 The core of this project revolves around the application of Transfer Learning using the VGG16 model. VGG16 is a Convolutional Neural Network (CNN) architecture that was originally trained on the ImageNet dataset, which contains over a million images across a thousand categories. By using VGG16, we can transfer the learned features to the CIFAR-10 dataset, greatly enhancing the model's performance without requiring extensive computational resources.
 
 
-#### Why Transfer Learning?
+### Why Transfer Learning?
 
 Transfer learning is a machine learning technique where a pre-trained model, originally trained on a large dataset for a specific task, is reused as the starting point for a model on a new, but related task. This approach leverages the knowledge gained from the original task to improve the performance on the new task. ( The idea is that the pre-trained model has already learned useful features, such as edges, shapes, and textures, which can be helpful for recognizing different kinds of images).
 
@@ -24,14 +24,14 @@ Some advantages of Transfer Learning for Image Recognition are:
 
 
 
-##### Main Objective
+### Main Objective
  Evaluate the effectiveness of Transfer Learning to enhance the accuracy of image classification.
 
-##### Expected Outcomes
+### Expected Outcomes
 * Accurate Image Classification: Achieve high levels of accuracy in classifying images, demonstrating the effectiveness of Transfer Learning
 
 
-##### Results
+### Results
 
 
 ### Requirements 
