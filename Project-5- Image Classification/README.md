@@ -31,7 +31,6 @@ Some advantages of Transfer Learning for Image Recognition are:
 * Accurate Image Classification: Achieve high levels of accuracy in classifying images, demonstrating the effectiveness of Transfer Learning
 
 
-### Results
 
 
 ### Requirements 
