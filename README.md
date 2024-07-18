@@ -27,8 +27,8 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
 #### Project 2: Wine Quality Prediction
 
     Description: Predicting the quality of wines using physicochemical variables.
-    Tools & Techniques: Python, Machine Learning,  XGBoost, Logistic regression, 
-                        Random Forest, Neural networks, pandas, scikit-learn, tensorflow, keras, numpy, data visualization, Streamlit web app.
+    Tools & Techniques: Python, Machine Learning,  XGBoost, Logistic regression, Random Forest,
+                        Neural networks, pandas, scikit-learn, tensorflow, keras, numpy, data visualization, Streamlit web app.
     Links: GitHub Repository
     Streamlit web app: https://wine-quality-ml-app.streamlit.app/
 
@@ -54,8 +54,8 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
 
 #### Project 6: DFT Meets Machine Learning
     Description: Predicting hydrogen adsorption energies on rocksalt complex oxides combining DFT calculations and machine learning.
-    Tools & Techniques: Python, Machine Learning, Deep Learning, Linear Regression, 
-                        Random Forest, Neural networks, pandas, scikit-learn, tensorflow, keras, numpy, data visualization
+    Tools & Techniques: Python, Machine Learning, Deep Learning, Linear Regression, Random Forest,
+                        Neural networks, pandas, scikit-learn, tensorflow, keras, numpy, data visualization
     Links: GitHub Repository
 
 ## License
