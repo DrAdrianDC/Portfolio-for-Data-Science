@@ -48,7 +48,8 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
 
 #### Project 5: Image Classification
     Description: Image Classification using Transfer Learning
-    Tools & Techniques: Python, Machine Learning, tensorflow, keras,seaborn, numpy, data visualization,   Deep Learning, Transfer Learning, 
+    Tools & Techniques: Python, Machine Learning, tensorflow, keras,seaborn, numpy, data visualization, 
+                        Deep Learning, Transfer Learning, 
     Links: GitHub Repository
 
 #### Project 6: DFT Meets Machine Learning
