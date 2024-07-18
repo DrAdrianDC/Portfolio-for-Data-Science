@@ -53,7 +53,8 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
     Links: GitHub Repository
 
 #### Project 6: DFT Meets Machine Learning
-    Description: Predicting hydrogen adsorption energies on rocksalt complex oxides combining DFT calculations and machine learning.
+    Description: Predicting hydrogen adsorption energies on rocksalt complex oxides 
+                 combining DFT calculations and machine learning.
     Tools & Techniques: Python, Machine Learning, Deep Learning, Linear Regression, Random Forest,
                         Neural networks, pandas, scikit-learn, tensorflow, keras, numpy, data visualization
     Links: GitHub Repository
