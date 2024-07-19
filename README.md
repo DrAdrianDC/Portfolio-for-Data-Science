@@ -16,7 +16,7 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
 
 #### Project 0: Project on Data Cleaning
     Description: A comprehensive process of cleaning and preparing raw data for analysis and modeling. 
-    Tools & Techniques: Python, pandas, numpy, scipy
+    Tools & Techniques: Python, pandas, numpy, matplotlib, scipy
     Links: GitHub Repository
 
 #### Project 1: Breast Cancer Classification 
@@ -28,27 +28,27 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
 
     Description: Predicting the quality of wines using physicochemical variables.
     Tools & Techniques: Python, Machine Learning,  XGBoost, Logistic regression, Random Forest, Neural networks,
-                        pandas, scikit-learn, tensorflow, keras, numpy, data visualization, Streamlit web app.
+                        pandas, scikit-learn, tensorflow, keras, numpy, matplotlib, data visualization, Streamlit web app.
     Links: GitHub Repository
     Streamlit web app: https://wine-quality-ml-app.streamlit.app/
 
 #### Project 3: WTI Oil Prices Anomaly Detection 
 
     Description: Anomaly detection in West Texas Intermediate (WTI) Crude Oil Prices
-    Tools & Techniques: Python, Deep Learning, yfinance, pandas,tensorflow, keras, numpy, data visualization, 
+    Tools & Techniques: Python, Deep Learning, yfinance, pandas, tensorflow, keras, numpy, matplotlib, data visualization, 
                         LSTM autoencoders 
     Links: GitHub Repository  
 
 #### Project 4: Apple Stock Market Prediction
     Description: Apple stock market prediction using Deep Learning
-    Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, numpy, data visualization, 
+    Tools & Techniques: Python, yfinance, pandas,tensorflow, keras, numpy, matplotlib, data visualization, 
                         Deep Learning, LSTM
     Links: GitHub Repository
 
 
 #### Project 5: Image Classification
     Description: Image Classification using Transfer Learning
-    Tools & Techniques: Python, Machine Learning, tensorflow, keras,seaborn, numpy, data visualization, 
+    Tools & Techniques: Python, Machine Learning, tensorflow, keras, seaborn, numpy, matplotlib, data visualization, 
                         Deep Learning, Transfer Learning, 
     Links: GitHub Repository
 
@@ -56,7 +56,7 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
     Description: Predicting hydrogen adsorption energies on rocksalt complex oxides 
                  combining DFT calculations and machine learning.
     Tools & Techniques: Python, Machine Learning, Deep Learning, Linear Regression, Random Forest,
-                        Neural networks, pandas, scikit-learn, tensorflow, keras, numpy, data visualization
+                        Neural networks, pandas, scikit-learn, tensorflow, keras, numpy, matplotlib, data visualization
     Links: GitHub Repository
 
 ## License
