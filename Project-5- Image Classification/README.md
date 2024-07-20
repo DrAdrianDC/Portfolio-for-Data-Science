@@ -34,16 +34,15 @@ Some advantages of Transfer Learning for Image Recognition are:
 
 ### Repository Structure
 
-- **DFT Meets Machine Learning/**
+- **Image Classification/**
   - **notebook/**
-    - `Image-Classification-Transfer-Learning.ipynb`: Contains the Jupyter notebook for the machine learning project.
-    
+    - `Image-Classification-Transfer-Learning.ipynb`: Contains the Jupyter notebook for the machine learning project.  
   - **model/**
     Contains files related to the obtained model for image classification.
   - **example-to-use/**
     - `Download-images-CIFAR10.ipynb`: Notebook for downloading images from the CIFAR-10 dataset.
     - `Application-Image-Classification-Transfer-Learning-model.ipynb`: Notebook for applying the transfer learning model to classify images.
-
+  - **README.md/**
 
 ### Requirements 
 
