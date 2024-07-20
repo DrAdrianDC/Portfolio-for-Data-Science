@@ -42,6 +42,20 @@ Some advantages of Transfer Learning for Image Recognition are:
         * Download-images-CIFAR10.ipynb: Notebook for downloading images from the CIFAR-10 dataset.
         * Application-Image-Classification-Transfer-Learning-model.ipynb: Notebook for applying the transfer learning model to classify images.
 
+
+## Repository Structure
+
+- **DFT Meets Machine Learning/**
+  - **notebooks/**
+    - `Notebook.ipynb`
+    - `Correlation-matrix.ipynb`
+  - **data/**
+    - `Data.xlsx`
+  - **publication/**
+    - `PAPER-Theoretical-Chemistry-Accounts.pdf`
+    - `Supporting-Information.pdf`
+
+
 ### Requirements 
 
     Python 3.8.3
