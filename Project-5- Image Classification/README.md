@@ -35,7 +35,7 @@ Some advantages of Transfer Learning for Image Recognition are:
 ### Repository Structure
 
 - **DFT Meets Machine Learning/**
-  - **notebooks/**
+  - **notebook/**
     - `Notebook.ipynb`: Contains the Jupyter notebook for the machine learning project.
     
   - **model/**
