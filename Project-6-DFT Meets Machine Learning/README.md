@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is about Density Functional Theory (DFT) and Machine Learning applied to Physical Chemistry, and it is part of my Postdoc research at Vanderbilt University.
+This project is about Density Functional Theory (DFT) and Machine Learning applied to Physical Chemistry, and it is part of my later Postdoc research at Vanderbilt University.
 The title of the publication is:  
 #### "DFT and machine learning for predicting hydrogen adsorption energies on rocksalt complex oxides."
 
