@@ -31,29 +31,18 @@ Some advantages of Transfer Learning for Image Recognition are:
 * Accurate Image Classification: Achieve high levels of accuracy in classifying images, demonstrating the effectiveness of Transfer Learning
 
 
-### Structure
 
-    * notebook/: Contains the Jupyter notebook for the machine learning project.
-        
-
-    * model/: Contains files related to the obtained model for image classification.
-        
-    * example-to-use/: Provides an example of how to use the notebooks and model for classification.
-        * Download-images-CIFAR10.ipynb: Notebook for downloading images from the CIFAR-10 dataset.
-        * Application-Image-Classification-Transfer-Learning-model.ipynb: Notebook for applying the transfer learning model to classify images.
-
-
-## Repository Structure
+### Repository Structure
 
 - **DFT Meets Machine Learning/**
   - **notebooks/**
-    - `Notebook.ipynb`
-    - `Correlation-matrix.ipynb`
-  - **data/**
-    - `Data.xlsx`
-  - **publication/**
-    - `PAPER-Theoretical-Chemistry-Accounts.pdf`
-    - `Supporting-Information.pdf`
+    - `Notebook.ipynb`: Contains the Jupyter notebook for the machine learning project.
+    
+  - **model/**
+    Contains files related to the obtained model for image classification.
+  - **example-to-use/**
+    - `Download-images-CIFAR10.ipynb`: Notebook for downloading images from the CIFAR-10 dataset.
+    - `Application-Image-Classification-Transfer-Learning-model.ipynb`: : Notebook for applying the transfer learning model to classify images.
 
 
 ### Requirements 
