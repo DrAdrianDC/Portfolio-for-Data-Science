@@ -42,7 +42,7 @@ Some advantages of Transfer Learning for Image Recognition are:
     Contains files related to the obtained model for image classification.
   - **example-to-use/**
     - `Download-images-CIFAR10.ipynb`: Notebook for downloading images from the CIFAR-10 dataset.
-    - `Application-Image-Classification-Transfer-Learning-model.ipynb`: : Notebook for applying the transfer learning model to classify images.
+    - `Application-Image-Classification-Transfer-Learning-model.ipynb`: Notebook for applying the transfer learning model to classify images.
 
 
 ### Requirements 
