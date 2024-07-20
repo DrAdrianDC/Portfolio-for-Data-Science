@@ -36,7 +36,7 @@ Some advantages of Transfer Learning for Image Recognition are:
 
 - **DFT Meets Machine Learning/**
   - **notebook/**
-    - `Notebook.ipynb`: Contains the Jupyter notebook for the machine learning project.
+    - `Image-Classification-Transfer-Learning.ipynb`: Contains the Jupyter notebook for the machine learning project.
     
   - **model/**
     Contains files related to the obtained model for image classification.
