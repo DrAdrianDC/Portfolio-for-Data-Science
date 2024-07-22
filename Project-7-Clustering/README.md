@@ -6,12 +6,7 @@ Clustering is a type of unsupervised learning technique used to group a set of o
 
 
 K-Means is a popular clustering algorithm used in unsupervised machine learning for grouping data into clusters based on similarity.
-
-
-
-
-K-Means is widely used due to its effectiveness and efficiency, but it has some limitations, such as sensitivity to initial centroid placement and the need to specify the number of clusters
-k beforehand.
+Some reasons why K-Means is commonly used are simplicity and efficiency, etc. K-Means is widely used due to its effectiveness and efficiency, but it has some limitations, such as sensitivity to initial centroid placement and the need to specify the number of clusters k beforehand.
 
 ## Results
 
