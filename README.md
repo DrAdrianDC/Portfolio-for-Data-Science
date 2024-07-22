@@ -1,4 +1,5 @@
 # My Data Science, AI and Machine Learning Portfolio
+![2345678](https://github.com/user-attachments/assets/5017b6b2-8a75-40c7-bdc5-831506c83f80)
 
 
 <img src="https://github.com/DrAdrianDC/Portfolio-for-Data-Science/assets/157868503/1ae2f241-d776-44ea-ae53-c0c1270384c1.type" width="750" height="450">
