@@ -59,6 +59,12 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
                         Neural networks, pandas, scikit-learn, tensorflow, keras, numpy, matplotlib, data visualization
     Links: GitHub Repository
 
+#### Project 7: Clustering
+    Description:  
+    Tools & Techniques: Python, Machine Learning, K-Means, pandas, numpy, matplotlib, seaborn
+    Links: GitHub Repository
+    
+
 ## License
 
 This set of projects that are part of my portfolio is licensed under the terms of the MIT license (See LICENSE.txt)
