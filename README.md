@@ -16,7 +16,7 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
 
 #### Project 0: Project on Data Cleaning
     Description: A comprehensive process of cleaning and preparing raw data for analysis and modeling. 
-    Tools & Techniques: Python, pandas, numpy, matplotlib, scipy
+    Tools & Techniques: Python, pandas, numpy, matplotlib, plotly, seaborn, scikit-learn
     Links: GitHub Repository
 
 #### Project 1: Breast Cancer Classification 
@@ -60,8 +60,8 @@ Here, you'll find a collection of projects I've worked on, showcasing my skills 
     Links: GitHub Repository
 
 #### Project 7: Clustering
-    Description:  
-    Tools & Techniques: Python, Machine Learning, K-Means, pandas, numpy, matplotlib, seaborn
+    Description: Clustering using the K-Means algorithm on the famous Iris dataset.
+    Tools & Techniques: Python, Machine Learning, K-Means, pandas, numpy, matplotlib, seaborn, scikit-learn
     Links: GitHub Repository
     
 
