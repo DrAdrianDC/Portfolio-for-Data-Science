@@ -4,7 +4,9 @@
 
 Clustering is a type of unsupervised learning technique used to group a set of objects or data points into clusters or groups based on their similarities. The goal is to have data points within the same cluster be more similar to each other than to those in other clusters. Clustering is widely used in various fields, such as marketing, biology, and data mining, to identify patterns and relationships within the data.
 
-The Iris dataset contains 150 samples of iris flowers, each with four features: sepal length, sepal width, petal length, and petal width. The dataset is labeled with three species: setosa, versicolor, and virginica.
+
+K-Means is a popular clustering algorithm used in unsupervised machine learning for grouping data into clusters based on similarity.
+
 
 
 
@@ -26,6 +28,7 @@ k beforehand.
 
 The dataset used in this project is the Iris dataset, available in the seaborn datasets module.
 
+The Iris dataset contains 150 samples of iris flowers, each with four features: sepal length, sepal width, petal length, and petal width. The dataset is labeled with three species: setosa, versicolor, and virginica.
 
 
 ## License
