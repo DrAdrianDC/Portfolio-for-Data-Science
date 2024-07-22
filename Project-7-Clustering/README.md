@@ -13,6 +13,10 @@ K-Means is a popular clustering algorithm used in unsupervised machine learning 
 K-Means is widely used due to its effectiveness and efficiency, but it has some limitations, such as sensitivity to initial centroid placement and the need to specify the number of clusters
 k beforehand.
 
+## Results
+
+![iris_clusters](https://github.com/user-attachments/assets/87516ec0-01f0-40f4-b2c4-a0f0c9255101)
+
 
 ## Requirements
 
