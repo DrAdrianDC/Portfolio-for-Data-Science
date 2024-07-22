@@ -14,8 +14,7 @@ Some reasons why K-Means is commonly used are simplicity and efficiency, etc. K-
 
 <img src="https://github.com/user-attachments/assets/87516ec0-01f0-40f4-b2c4-a0f0c9255101" width="400">
 
-![cross-table](https://github.com/user-attachments/assets/80b34d0c-24be-4298-a2fe-9276dd7ae26c)
-
+<img src="https://github.com/user-attachments/assets/80b34d0c-24be-4298-a2fe-9276dd7ae26c" width="200">
 
 ## Requirements
 
