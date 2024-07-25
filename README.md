@@ -4,7 +4,7 @@
 ![portfolio-figure](https://github.com/user-attachments/assets/6d694699-48ff-4765-bfff-4facbc983a60)
 
 
-#### Welcome to my Data Science, AI and Machine Learning Portfolio!  
+#### Welcome to my Data Science, AI, and Machine Learning Portfolio!  
 
 Here, you'll find a collection of projects I've worked on, showcasing my skills and experience in the field of Data Science and Machine Learning. Each project includes a brief description, the tools and techniques used, and links to the code and any related information.
 
