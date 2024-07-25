@@ -1,6 +1,6 @@
 # Data Science, AI and Machine Learning Portfolio
 
-![portfolio](https://github.com/user-attachments/assets/8443943c-48a5-4ae0-91f7-6a931874be34)
+
 
 
 #### Welcome to my Data Science, AI and Machine Learning Portfolio!  
