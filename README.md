@@ -6,7 +6,7 @@
 
 #### Welcome to my Data Science, AI, and Machine Learning Portfolio!  
 
-Here, you'll find a collection of projects I've worked on, showcasing my skills and experience in the field of Data Science and Machine Learning. Each project includes a brief description, the tools and techniques used, and links to the code and any related information.
+Here, you'll find a collection of End-to-End Machine Learning and Data Science projects I've worked on, showcasing my skills and expertise in data analysis, model development. predictive analytics and real-world problem-solving. Each project includes a brief description, the tools and techniques used, and links to the code and any related information.
 
 ## Essentials points in this Data Science, AI and Machine Learning Portfolio are:
 #### * Data Cleaning 
