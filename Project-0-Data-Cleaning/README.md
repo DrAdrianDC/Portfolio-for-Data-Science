@@ -1,5 +1,8 @@
 # Project-0- Data Cleaning
 
+![Data-Cleaning](https://github.com/user-attachments/assets/b07b5300-59a2-4ca7-8a49-ee2e87cce561)
+
+
 
 #### Why data cleaning is relevant?
 * Incomplete data
