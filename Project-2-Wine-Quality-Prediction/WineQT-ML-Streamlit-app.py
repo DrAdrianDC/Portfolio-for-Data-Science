@@ -53,7 +53,7 @@ if state == "project_description":
     st.markdown("---")
     # Add an image
     #st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-2-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
-    st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500)
+    st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/wine-Porto-2019.JPEG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500)
 
 
     # Add space
