@@ -52,8 +52,8 @@ if state == "project_description":
     st.write('')
     st.markdown("---")
     # Add an image
-    #st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
-    st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-1-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500)
+    #st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-2-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500) #use_column_width=True)
+    st.image('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/DSC01511.JPG', caption='Photo by the author during a trip to Porto, Portugal in November 2019', width=500)
 
 
     # Add space
@@ -109,13 +109,13 @@ elif state == "exploratory_data_analysis":
       
       
       # Download the CSV file
-      url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-1-Wine-Quality-Prediction/WineQT.csv'
+      url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/WineQT.csv'
       urllib.request.urlretrieve(url, 'WineQT.csv')
 
       
       # Load the data
       df = pd.read_csv('WineQT.csv')
-      #df = pd.read_csv('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-1-Wine-Quality-Prediction/WineQT.csv')
+      #df = pd.read_csv('https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-2-Wine-Quality-Prediction/WineQT.csv')
     
       st.markdown('#### Summary of the dataset')
       # Capture the output of df.info()
@@ -348,7 +348,7 @@ elif state == "wine_quality_prediction":
 
 
      # URL of the model on GitHub
-      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-1-Wine-Quality-Prediction/RF_joblib.pkl'
+      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/RF_joblib.pkl'
 
      # Download the model file
       response = requests.get(model_url)
