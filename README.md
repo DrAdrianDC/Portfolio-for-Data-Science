@@ -75,8 +75,8 @@ This set of projects that are part of my portfolio is licensed under the terms o
     
     
 ## About Me
-I am a data scientist and Machine Learning expert. I obtained a PhD in Physics (Dr. rer. nat. certificate) from the University of Bremen, Germany and a Bachelor degree in Radiochemistry (5 years program) from the Higher Institute of Technologies and Applied Sciences (InSTEC), Havana, Cuba. My scientific career has taken me to 4 countries (Canada, The Netherlands, Germany, USA) and 4 academic institutions, with co-authored peer-reviewed publications on quantum chemistry, simulations on computational chemistry and machine learning. I am enthusiastic about solving real world problems. 
-Feel free to reach out to me via email or connect with me on LinkedIn.
+I am a data scientist and Machine Learning expert. I hold a PhD in Physics (Dr. rer. nat. certificate) from the University of Bremen, Germany, and a Bachelor's degree in Radiochemistry (5 years program) from the Higher Institute of Technologies and Applied Sciences (InSTEC), Havana, Cuba. My scientific career has taken me to 4 countries (Canada, The Netherlands, Germany, USA) and 4 academic institutions, with co-authored peer-reviewed publications on quantum chemistry, simulations on computational chemistry, and machine learning. I am enthusiastic about solving real-world problems. 
+Feel free to contact me via email or connect with me on LinkedIn.
 
 ## Contact Me
 
