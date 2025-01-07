@@ -69,7 +69,8 @@ Here, you'll find a collection of End-to-End Machine Learning and Data Science p
 
 ## License
 
-This set of projects that are part of my portfolio is licensed under the terms of the MIT license (See LICENSE.txt)
+This repository is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**. For more details, see the LICENSE file.
+
 
 
     
