@@ -69,7 +69,7 @@ Here, you'll find a collection of End-to-End Machine Learning and Data Science p
 
 ## License
 
-This repository is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**. For more details, see the LICENSE.txt file.
+This repository is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**. (See LICENSE.txt file).
 
 
 
