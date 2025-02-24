@@ -278,12 +278,12 @@ elif state == "exploratory_data_analysis":
       # Scale the dataset by quality
       st.write("The dataset can be viewed as classification or regression tasks. The target variable 'quality' is a integer value. In order to treat as a classification problem,  we scale the dataset by quality.")
       
-      items =['quality > 5 is “good”','quality <= 5 is “bad”']
+      items =['quality > 6 is “good”','quality <= 6 is “bad”']
      
       for item in items:
        st.markdown(f"- {item}")
       
-      df['quality'] = df.quality.apply( lambda x:1 if x>5 else 0) 
+      df['quality'] = df.quality.apply( lambda x:1 if x>6 else 0) 
       
       # Adding space
       st.empty()
@@ -348,7 +348,7 @@ elif state == "wine_quality_prediction":
 
 
      # URL of the model on GitHub
-      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/RF_joblib.pkl'
+      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/XGBoost/XGBoost_joblib.pkl'
 
      # Download the model file
       response = requests.get(model_url)
@@ -360,7 +360,7 @@ elif state == "wine_quality_prediction":
               f.write(response.content)
     
     # Load the model
-          model = joblib.load('RF_joblib.pkl')
+          model = joblib.load('XGBoost_joblib.pkl')
 
     # Now you can use the model for predictions
       else:
@@ -376,7 +376,7 @@ elif state == "wine_quality_prediction":
         
       st.empty()
       st.write("<br>", unsafe_allow_html=True)
-      st.write("Note: The model used on the Prediction is the one based on the Random Forest algorithm.")
+      st.write("Note: The model used on the Prediction is the one based on the XGBoost algorithm.")
       st.write("")
       
       st.empty()
