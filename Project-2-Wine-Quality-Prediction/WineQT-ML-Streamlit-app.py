@@ -421,12 +421,9 @@ elif state == "wine_quality_prediction":
       
 # Update the state based on the selected menu item
 if selected_item_home:
-    #st.experimental_set_query_params(state="project_description")
     st.query_params["state"] = "project_description"
 elif selected_item_eda:
-    #st.experimental_set_query_params(state="exploratory_data_analysis")
     st.query_params["state"] = "exploratory_data_analysis"
 elif selected_item_wqp:
-    #st.experimental_set_query_params(state="wine_quality_prediction")  
     st.query_params["state"] = "wine_quality_prediction"
            
