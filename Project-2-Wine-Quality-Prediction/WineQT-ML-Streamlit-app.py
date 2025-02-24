@@ -359,14 +359,13 @@ elif state == "wine_quality_prediction":
               f.write(response.content)
     
     # Load the model
+          urllib.request.urlretrieve(url, "XGBoost_joblib.pkl")
           model = joblib.load('XGBoost_joblib.pkl')
 
     # Now you can use the model for predictions
       else:
          print('Failed to download the model')
 
-
-    
       st.empty()
       st.write("<br>", unsafe_allow_html=True)
       st.write("")
