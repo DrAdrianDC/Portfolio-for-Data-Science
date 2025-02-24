@@ -359,7 +359,7 @@ elif state == "wine_quality_prediction":
               f.write(response.content)
     
     # Load the model
-          urllib.request.urlretrieve(url, "XGBoost_joblib.pkl")
+          urllib.request.urlretrieve(model_url, "XGBoost_joblib.pkl")
           model = joblib.load('XGBoost_joblib.pkl')
 
     # Now you can use the model for predictions
