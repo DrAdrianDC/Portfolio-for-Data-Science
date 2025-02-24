@@ -10,9 +10,9 @@ https://wine-quality-ml-prediction.streamlit.app/
 # Results
 
 The most relevant results obtained for the Machine Learning algorithms explored are ( order based on the Validation Accuracy):
+* **Deep Neural Network (94.92%)**
 * **XGBoost (92.89%)**
 * **Random Forest (89.59%)**
-* **Deep Neural Network (87.82%)**
 * **Logistic Regression (84.77%)**
   
 The accuracy of the wine quality prediction results can be improved by increasing the amount of data obtaining a superior balance between the different classes of wine quality studied here.
