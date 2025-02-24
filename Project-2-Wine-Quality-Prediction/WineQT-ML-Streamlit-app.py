@@ -21,7 +21,7 @@ import urllib.request
 
 import requests
 
-import tensorflow as tf
+
 
 # Variable de estado para controlar la página actual
 #state = st.experimental_get_query_params().get("state", ["project_description"])[0]
@@ -350,20 +350,20 @@ elif state == "wine_quality_prediction":
 
      # URL of the model on GitHub
      # model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/XGBoost/XGBoost_joblib.pkl'
-      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-2-Wine-Quality-Prediction/Deep_Neural_Network/dnn_model.h5'
+      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-2-Wine-Quality-Prediction/RF_joblib.pkl'
     # Download the model file
       response = requests.get(model_url)
 
      # Check if download was successful
       if response.status_code == 200:
     # Save the model file locally
-          with open('dnn_model.h5', 'wb') as f:
+          with open('RF_joblib.pkl', 'wb') as f:
               f.write(response.content)
     
     # Load the model
-          urllib.request.urlretrieve(model_url, "dnn_model.h5")
-        #  model = joblib.load('dnn_model.h5')
-          model = tf.keras.models.load_model('dnn_model.h5')
+         # urllib.request.urlretrieve(model_url, "RF_joblib.pkl")
+          model = joblib.load('RF_joblib.pkl')
+          
 
     # Now you can use the model for predictions
       else:
