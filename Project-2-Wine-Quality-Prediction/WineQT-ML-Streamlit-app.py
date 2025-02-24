@@ -354,7 +354,7 @@ elif state == "wine_quality_prediction":
      # Check if download was successful
       if response.status_code == 200:
     # Save the model file locally
-          with open('RF_joblib.pkl', 'wb') as f:
+          with open('XGBoost_joblib.pkl', 'wb') as f:
               f.write(response.content)
     
     # Load the model
