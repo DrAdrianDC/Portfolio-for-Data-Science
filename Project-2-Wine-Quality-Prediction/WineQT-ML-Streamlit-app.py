@@ -23,8 +23,8 @@ import requests
 
 
 # Variable de estado para controlar la página actual
-#state = st.experimental_get_query_params().get("state", ["project_description"])[0]
-state = st.query_params().get("state", ["project_description"])[0]
+state = st.experimental_get_query_params().get("state", ["project_description"])[0]
+
 
 # Add a title
 st.title('Wine Quality Prediction Project using Machine Learning')
