@@ -348,7 +348,7 @@ elif state == "wine_quality_prediction":
 
      # URL of the model on GitHub
      # model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/XGBoost/XGBoost_joblib.pkl'
-      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/XGBoost_joblib.pkl'
+      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-2-Wine-Quality-Prediction/XGBoost_joblib.pkl'
     # Download the model file
       response = requests.get(model_url)
 
