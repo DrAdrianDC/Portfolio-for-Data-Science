@@ -11,7 +11,7 @@ https://wine-quality-ml-prediction.streamlit.app/
 
 The most relevant results obtained for the Machine Learning algorithms explored are ( order based on the Validation Accuracy):
 * **Random Forest (89.59%)**
-* XGBoost ( )
+* **XGBoost (92.89%)**
 * **Deep Neural Network (87.82%)**
 * **Logistic Regression (84.77%)**
   
