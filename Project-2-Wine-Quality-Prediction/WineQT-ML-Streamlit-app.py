@@ -350,7 +350,7 @@ elif state == "wine_quality_prediction":
 
      # URL of the model on GitHub
      # model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/XGBoost/XGBoost_joblib.pkl'
-      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/blob/main/Project-2-Wine-Quality-Prediction/RF_joblib.pkl'
+      model_url = 'https://github.com/DrAdrianDC/Portfolio-for-Data-Science/raw/main/Project-2-Wine-Quality-Prediction/RF_joblib.pkl'
     # Download the model file
       response = requests.get(model_url)
 
@@ -377,7 +377,7 @@ elif state == "wine_quality_prediction":
         
       st.empty()
       st.write("<br>", unsafe_allow_html=True)
-      st.write("Note: The model used on the Prediction is the one based on the XGBoost algorithm.")
+      st.write("Note: The model used on the Prediction is the one based on the Random Forest algorithm.")
       st.write("")
       
       st.empty()
