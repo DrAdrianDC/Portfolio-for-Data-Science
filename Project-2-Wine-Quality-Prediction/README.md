@@ -1,6 +1,6 @@
 # Project-2- Wine Quality Prediction
  
-The main goal is to build a robust machine learning model that can accurately predict the quality of wines using physicochemical variables such as acidity, alcohol concentration, pH, etc. In this classification problem, the quality of wine can be represented as a discrete variable, often categorized into classes such as bad, and good quality. Various classification algorithms such as **Logistic Regression**, **Random Forest, **XGBoost**, and a **Deep Neural Network** are considered.
+The main goal is to build a robust machine learning model that can accurately **predict the quality of wines** using physicochemical variables such as acidity, alcohol concentration, pH, etc. In this classification problem, the quality of wine can be represented as a discrete variable, often categorized into classes such as bad, and good quality. Various classification algorithms such as **Logistic Regression**, **Random Forest, **XGBoost**, and a **Deep Neural Network** are considered.
 
 In addition, a Streamlit web app was created.
 https://wine-quality-ml-prediction.streamlit.app/
