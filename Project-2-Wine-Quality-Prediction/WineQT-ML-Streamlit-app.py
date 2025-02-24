@@ -21,6 +21,7 @@ import urllib.request
 
 import requests
 
+import tensorflow as tf
 
 # Variable de estado para controlar la página actual
 #state = st.experimental_get_query_params().get("state", ["project_description"])[0]
@@ -361,7 +362,8 @@ elif state == "wine_quality_prediction":
     
     # Load the model
           urllib.request.urlretrieve(model_url, "dnn_model.h5")
-          model = joblib.load('dnn_model.h5')
+        #  model = joblib.load('dnn_model.h5')
+          model = tf.keras.models.load_model('dnn_model.h5')
 
     # Now you can use the model for predictions
       else:
