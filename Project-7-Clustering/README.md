@@ -6,12 +6,12 @@ This repository contains various clustering techniques applied to the Iris datas
 
 - **Clustering/**
   - **K-Means/**
-    - `Notebook.ipynb`
+    - `Clustering-K-Means.ipynb`
     - 
   - **data/**
     - `iris_with_clusters.csv`
   - **DBSCAN/**
-    - `Notebook.ipynb`
+    - `Clustering-DBSCAN.ipynb`
    
 
 ## Requirements
