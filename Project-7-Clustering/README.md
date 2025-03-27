@@ -1,6 +1,7 @@
 ## Clustering
 
-This repository contains various **clustering** techniques applied to the Iris dataset. 
+**Clustering** is a fundamental technique in **unsupervised machine learning**, essential for grouping similar data points without prior knowledge of labels. It helps in discovering hidden patterns and structures within data. In this repository, we apply two popular clustering algorithms **K-Means** and **DBSCAN** to the Iris dataset.
+
 
 ### Repository Structure
 
