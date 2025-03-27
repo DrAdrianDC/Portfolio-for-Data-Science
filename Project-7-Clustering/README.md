@@ -2,7 +2,7 @@
 
 This repository contains various **clustering** techniques applied to the Iris dataset. 
 
-## Repository Structure
+### Repository Structure
 
 - **Clustering/**
   - **DBSCAN/**
