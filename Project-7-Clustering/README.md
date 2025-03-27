@@ -5,13 +5,15 @@ This repository contains various clustering techniques applied to the Iris datas
 ## Repository Structure
 
 - **Clustering/**
+  - **DBSCAN/**
+    - `Clustering-DBSCAN.ipynb`
+    - 
   - **K-Means/**
     - `Clustering-K-Means.ipynb`
     - 
   - **data/**
     - `iris_with_clusters.csv`
-  - **DBSCAN/**
-    - `Clustering-DBSCAN.ipynb`
+  
    
 
 ## Requirements
