@@ -10,7 +10,8 @@ This repository contains various clustering techniques applied to the Iris datas
     - 
   - **K-Means/**
     - `Clustering-K-Means.ipynb`
-    - 
+    - `kmeans_model.joblib`
+    - `iris_clusters.png`
   - **data/**
     - `iris_with_clusters.csv`
   
