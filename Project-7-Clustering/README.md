@@ -1,6 +1,6 @@
 ## Clustering
 
-This repository contains various clustering techniques applied to the Iris dataset. 
+This repository contains various **clustering** techniques applied to the Iris dataset. 
 
 ## Repository Structure
 
