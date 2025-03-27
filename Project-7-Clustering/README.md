@@ -9,7 +9,7 @@ This repository contains various clustering techniques applied to the Iris datas
     - `Notebook.ipynb`
     - 
   - **data/**
-    - `Data.xlsx`
+    - `iris_with_clusters.csv`
   - **DBSCAN/**
     - `Notebook.ipynb`
    
