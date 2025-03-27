@@ -1,13 +1,18 @@
 ## Clustering
 
-This repository contains various clustering techniques applied to a dataset. It includes the following components:
+This repository contains various clustering techniques applied to the Iris dataset. 
 
-    Data: A folder containing the dataset used for clustering.
+## Repository Structure
 
-    K-Means: Implementation of the K-Means clustering algorithm, including code and analysis.
-
-    DBSCAN: Implementation of the DBSCAN clustering algorithm, along with related code and results.
-
+- **Clustering/**
+  - **K-Means/**
+    - `Notebook.ipynb`
+    - 
+  - **data/**
+    - `Data.xlsx`
+  - **DBSCAN/**
+    - 
+   
 
 ## Requirements
 
