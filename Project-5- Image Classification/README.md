@@ -1,4 +1,4 @@
-## Project-5 Image Classification 
+## Project-5 Image Classification using Transfer Learning
 
 In this project, we utilize **Transfer Learning** for image classification using a pre-trained VGG16 model on the CIFAR-10 dataset. By fine-tuning this model on our specific dataset, we aim to improve classification accuracy efficiently. 
 
