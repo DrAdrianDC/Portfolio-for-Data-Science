@@ -12,7 +12,7 @@ Clustering with K-Means is important for simplifying and understanding complex d
 K-Means is a popular clustering algorithm used in unsupervised machine learning for grouping data into clusters based on similarity.
 Some reasons why K-Means is commonly used are simplicity and efficiency, etc. K-Means is widely used due to its effectiveness and efficiency, but it has some limitations, such as sensitivity to initial centroid placement and the need to specify the number of clusters k beforehand.
 
-## Results
+### Results
 
 <img src="https://github.com/user-attachments/assets/87516ec0-01f0-40f4-b2c4-a0f0c9255101" width="400">
 
