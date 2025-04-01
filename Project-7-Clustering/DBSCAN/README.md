@@ -5,11 +5,11 @@
 ### Overview
 
 
-DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+**DBSCAN** (Density-Based Spatial Clustering of Applications with Noise)
 
-DBSCAN is a density-based clustering algorithm that identifies clusters in data based on the density of points in a given neighborhood. Unlike k-means, DBSCAN does not require specifying the number of clusters beforehand and is effective at detecting clusters of arbitrary shape while handling noise (outliers).
+**DBSCAN** is a density-based clustering algorithm that identifies clusters in data based on the density of points in a given neighborhood. Unlike k-means, DBSCAN does not require specifying the number of clusters beforehand and is effective at detecting clusters of arbitrary shape while handling noise (outliers).
 
-Key Concepts
+**Key Concepts**
 
   *  Core Points: Points with at least min_samples neighbors within a radius of eps.
 
@@ -17,20 +17,21 @@ Key Concepts
 
   *  Noise Points: Points that do not belong to any cluster.
 
-How It Works
+**How It Works**
 
-    A random unvisited point is selected.
+   1- A random unvisited point is selected.
 
-    If it is a core point, a new cluster is formed, and all density-reachable points are added.
+   2- If it is a core point, a new cluster is formed, and all density-reachable points are added.
 
-    The process continues recursively until all points are assigned to a cluster or labeled as noise.
+   3- The process continues recursively until all points are assigned to a cluster or labeled as noise.
 
-Advantages
+**Advantages**
 
 ✔️ Detects clusters of arbitrary shape.
 ✔️ Handles outliers effectively.
 ✔️ No need to predefine the number of clusters.
-Limitations
+
+**Limitations**
 
 ⚠️ Choosing optimal eps and min_samples can be challenging.
 ⚠️ Struggles with varying density clusters.
