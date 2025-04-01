@@ -28,12 +28,15 @@
 **Advantages**
 
 ✔️ Detects clusters of arbitrary shape.
+
 ✔️ Handles outliers effectively.
+
 ✔️ No need to predefine the number of clusters.
 
 **Limitations**
 
 ⚠️ Choosing optimal eps and min_samples can be challenging.
+
 ⚠️ Struggles with varying density clusters.
 
 DBSCAN is widely used in geospatial data analysis, anomaly detection, and customer segmentation, among other applications.
