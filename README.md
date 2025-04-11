@@ -63,7 +63,7 @@ Here, you'll find a collection of End-to-End Machine Learning and Data Science p
 
 #### Project 7: Clustering
     Description: Clustering using the K-Means and DBSCAN algorithms on the famous Iris dataset.
-    Tools & Techniques: Python, Machine Learning, K-Means, pandas, numpy, matplotlib, seaborn, scikit-learn
+    Tools & Techniques: Python, Machine Learning, K-Means, DBSCAN, pandas, numpy, matplotlib, seaborn, scikit-learn
     Links: GitHub Repository
     
 
