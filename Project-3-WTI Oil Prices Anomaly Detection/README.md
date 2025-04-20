@@ -15,12 +15,13 @@ An LSTM autoencoder combines both of these concepts. It uses LSTM layers to lear
 
 
 
-
+![plot-anomalies](https://github.com/user-attachments/assets/89c14e89-04cb-489d-b02d-ce450952236c)
 
 
 # Requirements
 
 * Python 3.8.3
+
 * TensorFlow 2.10.0
 * Pandas 1.0.5
 * Numpy 1.23.4
