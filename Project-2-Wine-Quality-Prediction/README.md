@@ -5,6 +5,7 @@ The main goal is to build a robust machine learning model that can accurately **
 In addition, a Streamlit web app was created.
 https://wine-quality-ml-prediction.streamlit.app/
 
+![image-Wine-ML](https://github.com/user-attachments/assets/27c3932d-75ef-4ed7-8e2a-36b909339ba3)
 
 
 # Results
