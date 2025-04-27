@@ -1,7 +1,9 @@
 # Project-3- Anomaly Detection WTI Oil Prices using LSTM Autoencoders
 
-![Image-WTI-ML](https://github.com/user-attachments/assets/73faf1c8-578a-4ae0-a882-741c85be8aff)
 
+
+
+<img src="https://github.com/user-attachments/assets/73faf1c8-578a-4ae0-a882-741c85be8aff" width="500"/>
 
 
 
